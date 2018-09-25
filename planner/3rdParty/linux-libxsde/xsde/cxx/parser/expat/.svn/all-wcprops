@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/expat
+END
+document.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/expat/document.cxx
+END
+document.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/expat/document.hxx
+END
+document.ixx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/expat/document.ixx
+END
+xml-error.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/expat/xml-error.cxx
+END
+xml-error.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/expat/xml-error.hxx
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid
+END
+sequence.ixx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/sequence.ixx
+END
+base.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/base.hxx
+END
+any-type-pskel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/any-type-pskel.cxx
+END
+serializer-map.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/serializer-map.cxx
+END
+any-type-sskel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/any-type-sskel.cxx
+END
+any-type-pimpl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/any-type-pimpl.cxx
+END
+any-type-pskel.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/any-type-pskel.hxx
+END
+any-type-simpl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/any-type-simpl.cxx
+END
+any-type-pskel.ixx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/any-type-pskel.ixx
+END
+sequence.txx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/sequence.txx
+END
+serializer-map.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/serializer-map.hxx
+END
+any-type-sskel.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/any-type-sskel.hxx
+END
+any-type-pimpl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/any-type-pimpl.hxx
+END
+any-type-sskel.ixx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/any-type-sskel.ixx
+END
+any-type-simpl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/any-type-simpl.hxx
+END
+xml-schema.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/xml-schema.hxx
+END
+any-type.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/any-type.cxx
+END
+parser-map.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/parser-map.cxx
+END
+sequence.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/sequence.cxx
+END
+any-type.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/any-type.hxx
+END
+parser-map.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/parser-map.hxx
+END
+sequence.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/sequence.hxx
+END

@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="xsde" />
+		<Option makefile="makefile" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/xsde" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Debug/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/xsde" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Release/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add directory="../../libxsde" />
+		</Compiler>
+		<Unit filename="allocator.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="allocator.h" />
+		<Unit filename="c/compilers/ghs/post.h" />
+		<Unit filename="c/compilers/ghs/pre.h" />
+		<Unit filename="c/compilers/vc-8/post.h" />
+		<Unit filename="c/compilers/vc-8/pre.h" />
+		<Unit filename="c/expat/ascii.h" />
+		<Unit filename="c/expat/asciitab.h" />
+		<Unit filename="c/expat/config.h" />
+		<Unit filename="c/expat/expat.h" />
+		<Unit filename="c/expat/expat_external.h" />
+		<Unit filename="c/expat/iasciitab.h" />
+		<Unit filename="c/expat/internal.h" />
+		<Unit filename="c/expat/latin1tab.h" />
+		<Unit filename="c/expat/nametab.h" />
+		<Unit filename="c/expat/utf8tab.h" />
+		<Unit filename="c/expat/xmlparse.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="c/expat/xmlrole.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="c/expat/xmlrole.h" />
+		<Unit filename="c/expat/xmltok.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="c/expat/xmltok.h" />
+		<Unit filename="c/expat/xmltok_impl.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="c/expat/xmltok_impl.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="c/expat/xmltok_ns.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="c/genx/char-props.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="c/genx/genx.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="c/genx/genx.h" />
+		<Unit filename="c/post.h" />
+		<Unit filename="c/pre.h" />
+		<Unit filename="c/regexp/chvalid.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="c/regexp/chvalid.h" />
+		<Unit filename="c/regexp/xmlregexp.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="c/regexp/xmlregexp.h" />
+		<Unit filename="c/regexp/xmlunicode.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="c/regexp/xmlunicode.h" />
+		<Unit filename="config.h" />
+		<Unit filename="cxx/allocator.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/allocator.hxx" />
+		<Unit filename="cxx/buffer.cxx" />
+		<Unit filename="cxx/buffer.hxx" />
+		<Unit filename="cxx/compilers/ghs/post.hxx" />
+		<Unit filename="cxx/compilers/ghs/pre.hxx" />
+		<Unit filename="cxx/compilers/vc-6/post.hxx" />
+		<Unit filename="cxx/compilers/vc-6/pre.hxx" />
+		<Unit filename="cxx/compilers/vc-7/post.hxx" />
+		<Unit filename="cxx/compilers/vc-7/pre.hxx" />
+		<Unit filename="cxx/compilers/vc-8/post.hxx" />
+		<Unit filename="cxx/compilers/vc-8/pre.hxx" />
+		<Unit filename="cxx/config.hxx" />
+		<Unit filename="cxx/date-time.hxx" />
+		<Unit filename="cxx/errno.hxx" />
+		<Unit filename="cxx/exceptions.hxx" />
+		<Unit filename="cxx/guard.hxx" />
+		<Unit filename="cxx/hashmap.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/hashmap.hxx" />
+		<Unit filename="cxx/hybrid/any-type-pimpl.cxx" />
+		<Unit filename="cxx/hybrid/any-type-pimpl.hxx" />
+		<Unit filename="cxx/hybrid/any-type-pskel.cxx" />
+		<Unit filename="cxx/hybrid/any-type-pskel.hxx" />
+		<Unit filename="cxx/hybrid/any-type-simpl.cxx" />
+		<Unit filename="cxx/hybrid/any-type-simpl.hxx" />
+		<Unit filename="cxx/hybrid/any-type-sskel.cxx" />
+		<Unit filename="cxx/hybrid/any-type-sskel.hxx" />
+		<Unit filename="cxx/hybrid/any-type.cxx" />
+		<Unit filename="cxx/hybrid/any-type.hxx" />
+		<Unit filename="cxx/hybrid/base.hxx" />
+		<Unit filename="cxx/hybrid/parser-map.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/hybrid/parser-map.hxx" />
+		<Unit filename="cxx/hybrid/sequence.cxx" />
+		<Unit filename="cxx/hybrid/sequence.hxx" />
+		<Unit filename="cxx/hybrid/serializer-map.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/hybrid/serializer-map.hxx" />
+		<Unit filename="cxx/hybrid/xml-schema.hxx" />
+		<Unit filename="cxx/iso8859-1.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/iso8859-1.hxx" />
+		<Unit filename="cxx/parser/context.cxx" />
+		<Unit filename="cxx/parser/context.hxx" />
+		<Unit filename="cxx/parser/elements.cxx" />
+		<Unit filename="cxx/parser/elements.hxx" />
+		<Unit filename="cxx/parser/error.cxx" />
+		<Unit filename="cxx/parser/error.hxx" />
+		<Unit filename="cxx/parser/exceptions.cxx" />
+		<Unit filename="cxx/parser/exceptions.hxx" />
+		<Unit filename="cxx/parser/expat/document.cxx" />
+		<Unit filename="cxx/parser/expat/document.hxx" />
+		<Unit filename="cxx/parser/expat/xml-error.cxx" />
+		<Unit filename="cxx/parser/expat/xml-error.hxx" />
+		<Unit filename="cxx/parser/map.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/map.hxx" />
+		<Unit filename="cxx/parser/non-validating/any-simple-type-stl.hxx" />
+		<Unit filename="cxx/parser/non-validating/any-simple-type.hxx" />
+		<Unit filename="cxx/parser/non-validating/any-type.hxx" />
+		<Unit filename="cxx/parser/non-validating/base64-binary.hxx" />
+		<Unit filename="cxx/parser/non-validating/boolean.hxx" />
+		<Unit filename="cxx/parser/non-validating/byte.hxx" />
+		<Unit filename="cxx/parser/non-validating/date-time.hxx" />
+		<Unit filename="cxx/parser/non-validating/date.hxx" />
+		<Unit filename="cxx/parser/non-validating/decimal.hxx" />
+		<Unit filename="cxx/parser/non-validating/double.hxx" />
+		<Unit filename="cxx/parser/non-validating/duration.hxx" />
+		<Unit filename="cxx/parser/non-validating/float.hxx" />
+		<Unit filename="cxx/parser/non-validating/gday.hxx" />
+		<Unit filename="cxx/parser/non-validating/gmonth-day.hxx" />
+		<Unit filename="cxx/parser/non-validating/gmonth.hxx" />
+		<Unit filename="cxx/parser/non-validating/gyear-month.hxx" />
+		<Unit filename="cxx/parser/non-validating/gyear.hxx" />
+		<Unit filename="cxx/parser/non-validating/hex-binary.hxx" />
+		<Unit filename="cxx/parser/non-validating/id-stl.hxx" />
+		<Unit filename="cxx/parser/non-validating/id.hxx" />
+		<Unit filename="cxx/parser/non-validating/idref-stl.hxx" />
+		<Unit filename="cxx/parser/non-validating/idref.hxx" />
+		<Unit filename="cxx/parser/non-validating/idrefs-stl.hxx" />
+		<Unit filename="cxx/parser/non-validating/idrefs.hxx" />
+		<Unit filename="cxx/parser/non-validating/int.hxx" />
+		<Unit filename="cxx/parser/non-validating/integer.hxx" />
+		<Unit filename="cxx/parser/non-validating/language-stl.hxx" />
+		<Unit filename="cxx/parser/non-validating/language.hxx" />
+		<Unit filename="cxx/parser/non-validating/long-long.hxx" />
+		<Unit filename="cxx/parser/non-validating/long.hxx" />
+		<Unit filename="cxx/parser/non-validating/name-stl.hxx" />
+		<Unit filename="cxx/parser/non-validating/name.hxx" />
+		<Unit filename="cxx/parser/non-validating/ncname-stl.hxx" />
+		<Unit filename="cxx/parser/non-validating/ncname.hxx" />
+		<Unit filename="cxx/parser/non-validating/negative-integer.hxx" />
+		<Unit filename="cxx/parser/non-validating/nmtoken-stl.hxx" />
+		<Unit filename="cxx/parser/non-validating/nmtoken.hxx" />
+		<Unit filename="cxx/parser/non-validating/nmtokens-stl.hxx" />
+		<Unit filename="cxx/parser/non-validating/nmtokens.hxx" />
+		<Unit filename="cxx/parser/non-validating/non-negative-integer.hxx" />
+		<Unit filename="cxx/parser/non-validating/non-positive-integer.hxx" />
+		<Unit filename="cxx/parser/non-validating/normalized-string-stl.hxx" />
+		<Unit filename="cxx/parser/non-validating/normalized-string.hxx" />
+		<Unit filename="cxx/parser/non-validating/number.hxx" />
+		<Unit filename="cxx/parser/non-validating/parser.hxx" />
+		<Unit filename="cxx/parser/non-validating/positive-integer.hxx" />
+		<Unit filename="cxx/parser/non-validating/qname-stl.hxx" />
+		<Unit filename="cxx/parser/non-validating/qname.hxx" />
+		<Unit filename="cxx/parser/non-validating/short.hxx" />
+		<Unit filename="cxx/parser/non-validating/string-common.hxx" />
+		<Unit filename="cxx/parser/non-validating/string-stl.hxx" />
+		<Unit filename="cxx/parser/non-validating/string.hxx" />
+		<Unit filename="cxx/parser/non-validating/time-zone.hxx" />
+		<Unit filename="cxx/parser/non-validating/time.hxx" />
+		<Unit filename="cxx/parser/non-validating/token-stl.hxx" />
+		<Unit filename="cxx/parser/non-validating/token.hxx" />
+		<Unit filename="cxx/parser/non-validating/unsigned-byte.hxx" />
+		<Unit filename="cxx/parser/non-validating/unsigned-int.hxx" />
+		<Unit filename="cxx/parser/non-validating/unsigned-long-long.hxx" />
+		<Unit filename="cxx/parser/non-validating/unsigned-long.hxx" />
+		<Unit filename="cxx/parser/non-validating/unsigned-short.hxx" />
+		<Unit filename="cxx/parser/non-validating/uri-stl.hxx" />
+		<Unit filename="cxx/parser/non-validating/uri.hxx" />
+		<Unit filename="cxx/parser/non-validating/xml-schema-pimpl.hxx" />
+		<Unit filename="cxx/parser/non-validating/xml-schema-pskel.hxx" />
+		<Unit filename="cxx/parser/state.hxx" />
+		<Unit filename="cxx/parser/substitution-map-callback.hxx" />
+		<Unit filename="cxx/parser/substitution-map-load.hxx" />
+		<Unit filename="cxx/parser/substitution-map.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/substitution-map.hxx" />
+		<Unit filename="cxx/parser/validating/any-simple-type-stl.cxx" />
+		<Unit filename="cxx/parser/validating/any-simple-type-stl.hxx" />
+		<Unit filename="cxx/parser/validating/any-simple-type.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/any-simple-type.hxx" />
+		<Unit filename="cxx/parser/validating/any-type.hxx" />
+		<Unit filename="cxx/parser/validating/base64-binary.cxx" />
+		<Unit filename="cxx/parser/validating/base64-binary.hxx" />
+		<Unit filename="cxx/parser/validating/boolean.cxx" />
+		<Unit filename="cxx/parser/validating/boolean.hxx" />
+		<Unit filename="cxx/parser/validating/byte.cxx" />
+		<Unit filename="cxx/parser/validating/byte.hxx" />
+		<Unit filename="cxx/parser/validating/date-time.cxx" />
+		<Unit filename="cxx/parser/validating/date-time.hxx" />
+		<Unit filename="cxx/parser/validating/date.cxx" />
+		<Unit filename="cxx/parser/validating/date.hxx" />
+		<Unit filename="cxx/parser/validating/decimal.cxx" />
+		<Unit filename="cxx/parser/validating/decimal.hxx" />
+		<Unit filename="cxx/parser/validating/double.cxx" />
+		<Unit filename="cxx/parser/validating/double.hxx" />
+		<Unit filename="cxx/parser/validating/duration.cxx" />
+		<Unit filename="cxx/parser/validating/duration.hxx" />
+		<Unit filename="cxx/parser/validating/float.cxx" />
+		<Unit filename="cxx/parser/validating/float.hxx" />
+		<Unit filename="cxx/parser/validating/gday.cxx" />
+		<Unit filename="cxx/parser/validating/gday.hxx" />
+		<Unit filename="cxx/parser/validating/gmonth-day.cxx" />
+		<Unit filename="cxx/parser/validating/gmonth-day.hxx" />
+		<Unit filename="cxx/parser/validating/gmonth.cxx" />
+		<Unit filename="cxx/parser/validating/gmonth.hxx" />
+		<Unit filename="cxx/parser/validating/gyear-month.cxx" />
+		<Unit filename="cxx/parser/validating/gyear-month.hxx" />
+		<Unit filename="cxx/parser/validating/gyear.cxx" />
+		<Unit filename="cxx/parser/validating/gyear.hxx" />
+		<Unit filename="cxx/parser/validating/hex-binary.cxx" />
+		<Unit filename="cxx/parser/validating/hex-binary.hxx" />
+		<Unit filename="cxx/parser/validating/id-stl.cxx" />
+		<Unit filename="cxx/parser/validating/id-stl.hxx" />
+		<Unit filename="cxx/parser/validating/id.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/id.hxx" />
+		<Unit filename="cxx/parser/validating/idref-stl.cxx" />
+		<Unit filename="cxx/parser/validating/idref-stl.hxx" />
+		<Unit filename="cxx/parser/validating/idref.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/idref.hxx" />
+		<Unit filename="cxx/parser/validating/idrefs-stl.cxx" />
+		<Unit filename="cxx/parser/validating/idrefs-stl.hxx" />
+		<Unit filename="cxx/parser/validating/idrefs.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/idrefs.hxx" />
+		<Unit filename="cxx/parser/validating/inheritance-map-load.hxx" />
+		<Unit filename="cxx/parser/validating/inheritance-map.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/inheritance-map.hxx" />
+		<Unit filename="cxx/parser/validating/int.cxx" />
+		<Unit filename="cxx/parser/validating/int.hxx" />
+		<Unit filename="cxx/parser/validating/integer.cxx" />
+		<Unit filename="cxx/parser/validating/integer.hxx" />
+		<Unit filename="cxx/parser/validating/language-stl.cxx" />
+		<Unit filename="cxx/parser/validating/language-stl.hxx" />
+		<Unit filename="cxx/parser/validating/language.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/language.hxx" />
+		<Unit filename="cxx/parser/validating/long-long.cxx" />
+		<Unit filename="cxx/parser/validating/long-long.hxx" />
+		<Unit filename="cxx/parser/validating/long.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/long.hxx" />
+		<Unit filename="cxx/parser/validating/name-stl.cxx" />
+		<Unit filename="cxx/parser/validating/name-stl.hxx" />
+		<Unit filename="cxx/parser/validating/name.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/name.hxx" />
+		<Unit filename="cxx/parser/validating/ncname-stl.cxx" />
+		<Unit filename="cxx/parser/validating/ncname-stl.hxx" />
+		<Unit filename="cxx/parser/validating/ncname.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/ncname.hxx" />
+		<Unit filename="cxx/parser/validating/negative-integer.cxx" />
+		<Unit filename="cxx/parser/validating/negative-integer.hxx" />
+		<Unit filename="cxx/parser/validating/nmtoken-stl.cxx" />
+		<Unit filename="cxx/parser/validating/nmtoken-stl.hxx" />
+		<Unit filename="cxx/parser/validating/nmtoken.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/nmtoken.hxx" />
+		<Unit filename="cxx/parser/validating/nmtokens-stl.cxx" />
+		<Unit filename="cxx/parser/validating/nmtokens-stl.hxx" />
+		<Unit filename="cxx/parser/validating/nmtokens.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/nmtokens.hxx" />
+		<Unit filename="cxx/parser/validating/non-negative-integer.cxx" />
+		<Unit filename="cxx/parser/validating/non-negative-integer.hxx" />
+		<Unit filename="cxx/parser/validating/non-positive-integer.cxx" />
+		<Unit filename="cxx/parser/validating/non-positive-integer.hxx" />
+		<Unit filename="cxx/parser/validating/normalized-string-stl.cxx" />
+		<Unit filename="cxx/parser/validating/normalized-string-stl.hxx" />
+		<Unit filename="cxx/parser/validating/normalized-string.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/normalized-string.hxx" />
+		<Unit filename="cxx/parser/validating/number.cxx" />
+		<Unit filename="cxx/parser/validating/number.hxx" />
+		<Unit filename="cxx/parser/validating/parser.cxx" />
+		<Unit filename="cxx/parser/validating/parser.hxx" />
+		<Unit filename="cxx/parser/validating/positive-integer.cxx" />
+		<Unit filename="cxx/parser/validating/positive-integer.hxx" />
+		<Unit filename="cxx/parser/validating/qname-stl.cxx" />
+		<Unit filename="cxx/parser/validating/qname-stl.hxx" />
+		<Unit filename="cxx/parser/validating/qname.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/qname.hxx" />
+		<Unit filename="cxx/parser/validating/short.cxx" />
+		<Unit filename="cxx/parser/validating/short.hxx" />
+		<Unit filename="cxx/parser/validating/string-common.cxx" />
+		<Unit filename="cxx/parser/validating/string-common.hxx" />
+		<Unit filename="cxx/parser/validating/string-stl.cxx" />
+		<Unit filename="cxx/parser/validating/string-stl.hxx" />
+		<Unit filename="cxx/parser/validating/string.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/string.hxx" />
+		<Unit filename="cxx/parser/validating/time-zone.cxx" />
+		<Unit filename="cxx/parser/validating/time-zone.hxx" />
+		<Unit filename="cxx/parser/validating/time.cxx" />
+		<Unit filename="cxx/parser/validating/time.hxx" />
+		<Unit filename="cxx/parser/validating/token-stl.cxx" />
+		<Unit filename="cxx/parser/validating/token-stl.hxx" />
+		<Unit filename="cxx/parser/validating/token.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/token.hxx" />
+		<Unit filename="cxx/parser/validating/unsigned-byte.cxx" />
+		<Unit filename="cxx/parser/validating/unsigned-byte.hxx" />
+		<Unit filename="cxx/parser/validating/unsigned-int.cxx" />
+		<Unit filename="cxx/parser/validating/unsigned-int.hxx" />
+		<Unit filename="cxx/parser/validating/unsigned-long-long.cxx" />
+		<Unit filename="cxx/parser/validating/unsigned-long-long.hxx" />
+		<Unit filename="cxx/parser/validating/unsigned-long.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/unsigned-long.hxx" />
+		<Unit filename="cxx/parser/validating/unsigned-short.cxx" />
+		<Unit filename="cxx/parser/validating/unsigned-short.hxx" />
+		<Unit filename="cxx/parser/validating/uri-stl.cxx" />
+		<Unit filename="cxx/parser/validating/uri-stl.hxx" />
+		<Unit filename="cxx/parser/validating/uri.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/parser/validating/uri.hxx" />
+		<Unit filename="cxx/parser/validating/xml-schema-pimpl.hxx" />
+		<Unit filename="cxx/parser/validating/xml-schema-pskel.cxx" />
+		<Unit filename="cxx/parser/validating/xml-schema-pskel.hxx" />
+		<Unit filename="cxx/parser/xml-schema.hxx" />
+		<Unit filename="cxx/post.hxx" />
+		<Unit filename="cxx/pre.hxx" />
+		<Unit filename="cxx/qname-stl.hxx" />
+		<Unit filename="cxx/qname.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/qname.hxx" />
+		<Unit filename="cxx/ro-string.cxx" />
+		<Unit filename="cxx/ro-string.hxx" />
+		<Unit filename="cxx/schema-error.cxx" />
+		<Unit filename="cxx/schema-error.hxx" />
+		<Unit filename="cxx/sequence-base.cxx" />
+		<Unit filename="cxx/sequence-base.hxx" />
+		<Unit filename="cxx/serializer/context.cxx" />
+		<Unit filename="cxx/serializer/context.hxx" />
+		<Unit filename="cxx/serializer/elements.cxx" />
+		<Unit filename="cxx/serializer/elements.hxx" />
+		<Unit filename="cxx/serializer/error.cxx" />
+		<Unit filename="cxx/serializer/error.hxx" />
+		<Unit filename="cxx/serializer/exceptions.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/exceptions.hxx" />
+		<Unit filename="cxx/serializer/genx/document.cxx" />
+		<Unit filename="cxx/serializer/genx/document.hxx" />
+		<Unit filename="cxx/serializer/genx/xml-error.cxx" />
+		<Unit filename="cxx/serializer/genx/xml-error.hxx" />
+		<Unit filename="cxx/serializer/map.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/map.hxx" />
+		<Unit filename="cxx/serializer/non-validating/any-simple-type-stl.hxx" />
+		<Unit filename="cxx/serializer/non-validating/any-simple-type.hxx" />
+		<Unit filename="cxx/serializer/non-validating/any-type.hxx" />
+		<Unit filename="cxx/serializer/non-validating/base64-binary.hxx" />
+		<Unit filename="cxx/serializer/non-validating/boolean.hxx" />
+		<Unit filename="cxx/serializer/non-validating/byte.hxx" />
+		<Unit filename="cxx/serializer/non-validating/date-time.hxx" />
+		<Unit filename="cxx/serializer/non-validating/date.hxx" />
+		<Unit filename="cxx/serializer/non-validating/decimal.hxx" />
+		<Unit filename="cxx/serializer/non-validating/double.hxx" />
+		<Unit filename="cxx/serializer/non-validating/duration.hxx" />
+		<Unit filename="cxx/serializer/non-validating/float.hxx" />
+		<Unit filename="cxx/serializer/non-validating/gday.hxx" />
+		<Unit filename="cxx/serializer/non-validating/gmonth-day.hxx" />
+		<Unit filename="cxx/serializer/non-validating/gmonth.hxx" />
+		<Unit filename="cxx/serializer/non-validating/gyear-month.hxx" />
+		<Unit filename="cxx/serializer/non-validating/gyear.hxx" />
+		<Unit filename="cxx/serializer/non-validating/hex-binary.hxx" />
+		<Unit filename="cxx/serializer/non-validating/id-stl.hxx" />
+		<Unit filename="cxx/serializer/non-validating/id.hxx" />
+		<Unit filename="cxx/serializer/non-validating/idref-stl.hxx" />
+		<Unit filename="cxx/serializer/non-validating/idref.hxx" />
+		<Unit filename="cxx/serializer/non-validating/idrefs-stl.hxx" />
+		<Unit filename="cxx/serializer/non-validating/idrefs.hxx" />
+		<Unit filename="cxx/serializer/non-validating/int.hxx" />
+		<Unit filename="cxx/serializer/non-validating/integer.hxx" />
+		<Unit filename="cxx/serializer/non-validating/language-stl.hxx" />
+		<Unit filename="cxx/serializer/non-validating/language.hxx" />
+		<Unit filename="cxx/serializer/non-validating/long-long.hxx" />
+		<Unit filename="cxx/serializer/non-validating/long.hxx" />
+		<Unit filename="cxx/serializer/non-validating/name-stl.hxx" />
+		<Unit filename="cxx/serializer/non-validating/name.hxx" />
+		<Unit filename="cxx/serializer/non-validating/ncname-stl.hxx" />
+		<Unit filename="cxx/serializer/non-validating/ncname.hxx" />
+		<Unit filename="cxx/serializer/non-validating/negative-integer.hxx" />
+		<Unit filename="cxx/serializer/non-validating/nmtoken-stl.hxx" />
+		<Unit filename="cxx/serializer/non-validating/nmtoken.hxx" />
+		<Unit filename="cxx/serializer/non-validating/nmtokens-stl.hxx" />
+		<Unit filename="cxx/serializer/non-validating/nmtokens.hxx" />
+		<Unit filename="cxx/serializer/non-validating/non-negative-integer.hxx" />
+		<Unit filename="cxx/serializer/non-validating/non-positive-integer.hxx" />
+		<Unit filename="cxx/serializer/non-validating/normalized-string-stl.hxx" />
+		<Unit filename="cxx/serializer/non-validating/normalized-string.hxx" />
+		<Unit filename="cxx/serializer/non-validating/positive-integer.hxx" />
+		<Unit filename="cxx/serializer/non-validating/qname-stl.hxx" />
+		<Unit filename="cxx/serializer/non-validating/qname.hxx" />
+		<Unit filename="cxx/serializer/non-validating/serializer.hxx" />
+		<Unit filename="cxx/serializer/non-validating/short.hxx" />
+		<Unit filename="cxx/serializer/non-validating/string-stl.hxx" />
+		<Unit filename="cxx/serializer/non-validating/string.hxx" />
+		<Unit filename="cxx/serializer/non-validating/time-zone.hxx" />
+		<Unit filename="cxx/serializer/non-validating/time.hxx" />
+		<Unit filename="cxx/serializer/non-validating/token-stl.hxx" />
+		<Unit filename="cxx/serializer/non-validating/token.hxx" />
+		<Unit filename="cxx/serializer/non-validating/unsigned-byte.hxx" />
+		<Unit filename="cxx/serializer/non-validating/unsigned-int.hxx" />
+		<Unit filename="cxx/serializer/non-validating/unsigned-long-long.hxx" />
+		<Unit filename="cxx/serializer/non-validating/unsigned-long.hxx" />
+		<Unit filename="cxx/serializer/non-validating/unsigned-short.hxx" />
+		<Unit filename="cxx/serializer/non-validating/uri-stl.hxx" />
+		<Unit filename="cxx/serializer/non-validating/uri.hxx" />
+		<Unit filename="cxx/serializer/non-validating/xml-schema-simpl.hxx" />
+		<Unit filename="cxx/serializer/non-validating/xml-schema-sskel.hxx" />
+		<Unit filename="cxx/serializer/substitution-map-callback.hxx" />
+		<Unit filename="cxx/serializer/substitution-map-load.hxx" />
+		<Unit filename="cxx/serializer/substitution-map.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/substitution-map.hxx" />
+		<Unit filename="cxx/serializer/validating/any-simple-type-stl.cxx" />
+		<Unit filename="cxx/serializer/validating/any-simple-type-stl.hxx" />
+		<Unit filename="cxx/serializer/validating/any-simple-type.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/any-simple-type.hxx" />
+		<Unit filename="cxx/serializer/validating/any-type.hxx" />
+		<Unit filename="cxx/serializer/validating/base64-binary.cxx" />
+		<Unit filename="cxx/serializer/validating/base64-binary.hxx" />
+		<Unit filename="cxx/serializer/validating/boolean.cxx" />
+		<Unit filename="cxx/serializer/validating/boolean.hxx" />
+		<Unit filename="cxx/serializer/validating/byte.cxx" />
+		<Unit filename="cxx/serializer/validating/byte.hxx" />
+		<Unit filename="cxx/serializer/validating/date-time.cxx" />
+		<Unit filename="cxx/serializer/validating/date-time.hxx" />
+		<Unit filename="cxx/serializer/validating/date.cxx" />
+		<Unit filename="cxx/serializer/validating/date.hxx" />
+		<Unit filename="cxx/serializer/validating/decimal.cxx" />
+		<Unit filename="cxx/serializer/validating/decimal.hxx" />
+		<Unit filename="cxx/serializer/validating/double.cxx" />
+		<Unit filename="cxx/serializer/validating/double.hxx" />
+		<Unit filename="cxx/serializer/validating/duration.cxx" />
+		<Unit filename="cxx/serializer/validating/duration.hxx" />
+		<Unit filename="cxx/serializer/validating/float.cxx" />
+		<Unit filename="cxx/serializer/validating/float.hxx" />
+		<Unit filename="cxx/serializer/validating/gday.cxx" />
+		<Unit filename="cxx/serializer/validating/gday.hxx" />
+		<Unit filename="cxx/serializer/validating/gmonth-day.cxx" />
+		<Unit filename="cxx/serializer/validating/gmonth-day.hxx" />
+		<Unit filename="cxx/serializer/validating/gmonth.cxx" />
+		<Unit filename="cxx/serializer/validating/gmonth.hxx" />
+		<Unit filename="cxx/serializer/validating/gyear-month.cxx" />
+		<Unit filename="cxx/serializer/validating/gyear-month.hxx" />
+		<Unit filename="cxx/serializer/validating/gyear.cxx" />
+		<Unit filename="cxx/serializer/validating/gyear.hxx" />
+		<Unit filename="cxx/serializer/validating/hex-binary.cxx" />
+		<Unit filename="cxx/serializer/validating/hex-binary.hxx" />
+		<Unit filename="cxx/serializer/validating/id-stl.cxx" />
+		<Unit filename="cxx/serializer/validating/id-stl.hxx" />
+		<Unit filename="cxx/serializer/validating/id.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/id.hxx" />
+		<Unit filename="cxx/serializer/validating/idref-stl.cxx" />
+		<Unit filename="cxx/serializer/validating/idref-stl.hxx" />
+		<Unit filename="cxx/serializer/validating/idref.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/idref.hxx" />
+		<Unit filename="cxx/serializer/validating/idrefs-stl.cxx" />
+		<Unit filename="cxx/serializer/validating/idrefs-stl.hxx" />
+		<Unit filename="cxx/serializer/validating/idrefs.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/idrefs.hxx" />
+		<Unit filename="cxx/serializer/validating/inheritance-map-load.hxx" />
+		<Unit filename="cxx/serializer/validating/inheritance-map.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/inheritance-map.hxx" />
+		<Unit filename="cxx/serializer/validating/int.cxx" />
+		<Unit filename="cxx/serializer/validating/int.hxx" />
+		<Unit filename="cxx/serializer/validating/integer.cxx" />
+		<Unit filename="cxx/serializer/validating/integer.hxx" />
+		<Unit filename="cxx/serializer/validating/language-stl.cxx" />
+		<Unit filename="cxx/serializer/validating/language-stl.hxx" />
+		<Unit filename="cxx/serializer/validating/language.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/language.hxx" />
+		<Unit filename="cxx/serializer/validating/long-long.cxx" />
+		<Unit filename="cxx/serializer/validating/long-long.hxx" />
+		<Unit filename="cxx/serializer/validating/long.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/long.hxx" />
+		<Unit filename="cxx/serializer/validating/name-stl.cxx" />
+		<Unit filename="cxx/serializer/validating/name-stl.hxx" />
+		<Unit filename="cxx/serializer/validating/name.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/name.hxx" />
+		<Unit filename="cxx/serializer/validating/ncname-stl.cxx" />
+		<Unit filename="cxx/serializer/validating/ncname-stl.hxx" />
+		<Unit filename="cxx/serializer/validating/ncname.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/ncname.hxx" />
+		<Unit filename="cxx/serializer/validating/negative-integer.cxx" />
+		<Unit filename="cxx/serializer/validating/negative-integer.hxx" />
+		<Unit filename="cxx/serializer/validating/nmtoken-stl.cxx" />
+		<Unit filename="cxx/serializer/validating/nmtoken-stl.hxx" />
+		<Unit filename="cxx/serializer/validating/nmtoken.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/nmtoken.hxx" />
+		<Unit filename="cxx/serializer/validating/nmtokens-stl.cxx" />
+		<Unit filename="cxx/serializer/validating/nmtokens-stl.hxx" />
+		<Unit filename="cxx/serializer/validating/nmtokens.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/nmtokens.hxx" />
+		<Unit filename="cxx/serializer/validating/non-negative-integer.cxx" />
+		<Unit filename="cxx/serializer/validating/non-negative-integer.hxx" />
+		<Unit filename="cxx/serializer/validating/non-positive-integer.cxx" />
+		<Unit filename="cxx/serializer/validating/non-positive-integer.hxx" />
+		<Unit filename="cxx/serializer/validating/normalized-string-stl.cxx" />
+		<Unit filename="cxx/serializer/validating/normalized-string-stl.hxx" />
+		<Unit filename="cxx/serializer/validating/normalized-string.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/normalized-string.hxx" />
+		<Unit filename="cxx/serializer/validating/positive-integer.cxx" />
+		<Unit filename="cxx/serializer/validating/positive-integer.hxx" />
+		<Unit filename="cxx/serializer/validating/qname-stl.cxx" />
+		<Unit filename="cxx/serializer/validating/qname-stl.hxx" />
+		<Unit filename="cxx/serializer/validating/qname.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/qname.hxx" />
+		<Unit filename="cxx/serializer/validating/serializer.cxx" />
+		<Unit filename="cxx/serializer/validating/serializer.hxx" />
+		<Unit filename="cxx/serializer/validating/short.cxx" />
+		<Unit filename="cxx/serializer/validating/short.hxx" />
+		<Unit filename="cxx/serializer/validating/string-common.cxx" />
+		<Unit filename="cxx/serializer/validating/string-common.hxx" />
+		<Unit filename="cxx/serializer/validating/string-stl.cxx" />
+		<Unit filename="cxx/serializer/validating/string-stl.hxx" />
+		<Unit filename="cxx/serializer/validating/string.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/string.hxx" />
+		<Unit filename="cxx/serializer/validating/time-zone.cxx" />
+		<Unit filename="cxx/serializer/validating/time-zone.hxx" />
+		<Unit filename="cxx/serializer/validating/time.cxx" />
+		<Unit filename="cxx/serializer/validating/time.hxx" />
+		<Unit filename="cxx/serializer/validating/token-stl.cxx" />
+		<Unit filename="cxx/serializer/validating/token-stl.hxx" />
+		<Unit filename="cxx/serializer/validating/token.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/token.hxx" />
+		<Unit filename="cxx/serializer/validating/unsigned-byte.cxx" />
+		<Unit filename="cxx/serializer/validating/unsigned-byte.hxx" />
+		<Unit filename="cxx/serializer/validating/unsigned-int.cxx" />
+		<Unit filename="cxx/serializer/validating/unsigned-int.hxx" />
+		<Unit filename="cxx/serializer/validating/unsigned-long-long.cxx" />
+		<Unit filename="cxx/serializer/validating/unsigned-long-long.hxx" />
+		<Unit filename="cxx/serializer/validating/unsigned-long.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/unsigned-long.hxx" />
+		<Unit filename="cxx/serializer/validating/unsigned-short.cxx" />
+		<Unit filename="cxx/serializer/validating/unsigned-short.hxx" />
+		<Unit filename="cxx/serializer/validating/uri-stl.cxx" />
+		<Unit filename="cxx/serializer/validating/uri-stl.hxx" />
+		<Unit filename="cxx/serializer/validating/uri.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/serializer/validating/uri.hxx" />
+		<Unit filename="cxx/serializer/validating/xml-schema-simpl.hxx" />
+		<Unit filename="cxx/serializer/validating/xml-schema-sskel.cxx" />
+		<Unit filename="cxx/serializer/validating/xml-schema-sskel.hxx" />
+		<Unit filename="cxx/serializer/xml-schema.hxx" />
+		<Unit filename="cxx/stack.cxx" />
+		<Unit filename="cxx/stack.hxx" />
+		<Unit filename="cxx/strdupx.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/strdupx.hxx" />
+		<Unit filename="cxx/string-search.cxx" />
+		<Unit filename="cxx/string-search.hxx" />
+		<Unit filename="cxx/string-sequence-stl.cxx" />
+		<Unit filename="cxx/string-sequence-stl.hxx" />
+		<Unit filename="cxx/string-sequence.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/string-sequence.hxx" />
+		<Unit filename="cxx/string.cxx" />
+		<Unit filename="cxx/string.hxx" />
+		<Unit filename="cxx/sys-error.cxx">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cxx/sys-error.hxx" />
+		<Unit filename="cxx/version.hxx" />
+		<Unit filename="cxx/xml/char-table.cxx" />
+		<Unit filename="cxx/xml/char-table.hxx" />
+		<Unit filename="cxx/xml/ncname.cxx" />
+		<Unit filename="cxx/xml/ncname.hxx" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

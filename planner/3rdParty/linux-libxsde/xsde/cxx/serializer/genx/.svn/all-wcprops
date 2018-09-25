@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/genx
+END
+document.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/genx/document.cxx
+END
+document.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/genx/document.hxx
+END
+document.ixx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/genx/document.ixx
+END
+xml-error.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/genx/xml-error.cxx
+END
+xml-error.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/genx/xml-error.hxx
+END

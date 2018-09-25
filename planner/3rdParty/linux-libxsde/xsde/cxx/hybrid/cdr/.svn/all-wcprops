@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/cdr
+END
+ostream.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/cdr/ostream.hxx
+END
+ostream.ixx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/cdr/ostream.ixx
+END
+exceptions.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/cdr/exceptions.cxx
+END
+qname.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/cdr/qname.cxx
+END
+istream.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/cdr/istream.cxx
+END
+istream.txx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/cdr/istream.txx
+END
+exceptions.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/cdr/exceptions.hxx
+END
+date-time.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/cdr/date-time.cxx
+END
+istream.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/cdr/istream.hxx
+END
+istream.ixx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/cdr/istream.ixx
+END
+ostream.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/cdr/ostream.cxx
+END
+ostream.txx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/cdr/ostream.txx
+END
+string-sequence.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/hybrid/cdr/string-sequence.cxx
+END

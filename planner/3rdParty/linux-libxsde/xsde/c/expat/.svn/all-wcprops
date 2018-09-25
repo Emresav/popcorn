@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/scm/svn/PMT/!svn/ver/35/Planner/libxsde/xsde/c/expat
+END
+xmltok_impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/xmltok_impl.c
+END
+xmltok_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/xmltok_impl.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/config.h
+END
+nametab.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/nametab.h
+END
+xmltok.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/xmltok.c
+END
+xmltok_ns.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/xmltok_ns.c
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/internal.h
+END
+xmlrole.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/xmlrole.c
+END
+utf8tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/utf8tab.h
+END
+xmltok.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/xmltok.h
+END
+latin1tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/latin1tab.h
+END
+asciitab.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/asciitab.h
+END
+expat.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/expat.h
+END
+xmlrole.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/xmlrole.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/COPYING
+END
+expat_external.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/expat_external.h
+END
+xmlparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/scm/svn/PMT/!svn/ver/35/Planner/libxsde/xsde/c/expat/xmlparse.c
+END
+iasciitab.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/iasciitab.h
+END
+ascii.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/expat/ascii.h
+END

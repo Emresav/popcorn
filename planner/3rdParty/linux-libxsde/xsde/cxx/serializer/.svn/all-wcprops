@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer
+END
+exceptions.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/exceptions.cxx
+END
+elements.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/elements.hxx
+END
+map.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/map.hxx
+END
+elements.ixx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/elements.ixx
+END
+map.ixx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/map.ixx
+END
+context.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/context.cxx
+END
+exceptions.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/exceptions.hxx
+END
+substitution-map-callback.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/substitution-map-callback.hxx
+END
+exceptions.ixx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/exceptions.ixx
+END
+substitution-map.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/substitution-map.cxx
+END
+error.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/error.cxx
+END
+context.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/context.hxx
+END
+context.ixx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/context.ixx
+END
+substitution-map.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/substitution-map.hxx
+END
+substitution-map.ixx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/substitution-map.ixx
+END
+error.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/error.hxx
+END
+error.ixx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/error.ixx
+END
+xml-schema.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/xml-schema.hxx
+END
+substitution-map-load.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/substitution-map-load.hxx
+END
+elements.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/elements.cxx
+END
+map.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/serializer/map.cxx
+END

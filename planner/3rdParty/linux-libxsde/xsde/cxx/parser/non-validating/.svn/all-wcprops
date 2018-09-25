@@ -1,0 +1,785 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating
+END
+nmtoken-stl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/nmtoken-stl.hxx
+END
+name.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/name.hxx
+END
+gmonth.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/gmonth.cxx
+END
+id-stl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/id-stl.cxx
+END
+long-long.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/long-long.cxx
+END
+number.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/number.hxx
+END
+time.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/time.cxx
+END
+qname-stl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/qname-stl.hxx
+END
+normalized-string.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/normalized-string.cxx
+END
+nmtoken.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/nmtoken.cxx
+END
+gyear.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/gyear.hxx
+END
+date-time.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/date-time.hxx
+END
+token.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/token.cxx
+END
+xml-schema-pskel.ixx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/xml-schema-pskel.ixx
+END
+idrefs.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/idrefs.hxx
+END
+unsigned-byte.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/unsigned-byte.hxx
+END
+name-stl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/name-stl.hxx
+END
+language-stl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/language-stl.hxx
+END
+string-common.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/string-common.cxx
+END
+parser.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/parser.cxx
+END
+any-simple-type-stl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/any-simple-type-stl.cxx
+END
+integer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/integer.cxx
+END
+decimal.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/decimal.cxx
+END
+short.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/short.cxx
+END
+gyear-month.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/gyear-month.hxx
+END
+long.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/long.cxx
+END
+qname.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/qname.cxx
+END
+id.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/id.hxx
+END
+uri-stl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/uri-stl.hxx
+END
+unsigned-int.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/unsigned-int.cxx
+END
+string.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/string.cxx
+END
+ncname-stl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/ncname-stl.hxx
+END
+base64-binary.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/base64-binary.cxx
+END
+hex-binary.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/hex-binary.cxx
+END
+normalized-string-stl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/normalized-string-stl.cxx
+END
+float.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/float.hxx
+END
+token-stl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/token-stl.cxx
+END
+idrefs-stl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/idrefs-stl.hxx
+END
+language.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/language.cxx
+END
+idref-stl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/idref-stl.cxx
+END
+int.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/int.cxx
+END
+positive-integer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/positive-integer.cxx
+END
+uri.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/uri.cxx
+END
+ncname.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/ncname.cxx
+END
+gmonth.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/gmonth.hxx
+END
+id-stl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/id-stl.hxx
+END
+long-long.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/long-long.hxx
+END
+time.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/time.hxx
+END
+string-stl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/string-stl.cxx
+END
+unsigned-long.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/unsigned-long.cxx
+END
+double.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/double.cxx
+END
+normalized-string.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/normalized-string.hxx
+END
+date.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/date.cxx
+END
+nmtoken.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/nmtoken.hxx
+END
+gday.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/gday.cxx
+END
+token.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/token.hxx
+END
+negative-integer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/negative-integer.cxx
+END
+string-common.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/string-common.hxx
+END
+parser.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/parser.hxx
+END
+any-simple-type-stl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/any-simple-type-stl.hxx
+END
+integer.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/integer.hxx
+END
+decimal.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/decimal.hxx
+END
+short.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/short.hxx
+END
+long.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/long.hxx
+END
+unsigned-long-long.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/unsigned-long-long.cxx
+END
+qname.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/qname.hxx
+END
+gmonth-day.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/gmonth-day.cxx
+END
+unsigned-int.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/unsigned-int.hxx
+END
+string.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/string.hxx
+END
+base64-binary.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/base64-binary.hxx
+END
+hex-binary.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/hex-binary.hxx
+END
+normalized-string-stl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/normalized-string-stl.hxx
+END
+xml-schema-pimpl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/xml-schema-pimpl.hxx
+END
+token-stl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/token-stl.hxx
+END
+non-positive-integer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/non-positive-integer.cxx
+END
+duration.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/duration.cxx
+END
+language.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/language.hxx
+END
+any-simple-type.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/any-simple-type.cxx
+END
+nmtokens.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/nmtokens.cxx
+END
+idref-stl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/idref-stl.hxx
+END
+int.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/int.hxx
+END
+positive-integer.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/positive-integer.hxx
+END
+uri.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/uri.hxx
+END
+ncname.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/ncname.hxx
+END
+time-zone.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/time-zone.cxx
+END
+unsigned-short.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/unsigned-short.cxx
+END
+xml-schema-pskel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/xml-schema-pskel.cxx
+END
+string-stl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/string-stl.hxx
+END
+unsigned-long.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/unsigned-long.hxx
+END
+double.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/double.hxx
+END
+boolean.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/boolean.cxx
+END
+date.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/date.hxx
+END
+non-negative-integer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/non-negative-integer.cxx
+END
+gday.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/gday.hxx
+END
+idref.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/idref.cxx
+END
+nmtokens-stl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/nmtokens-stl.cxx
+END
+parser.ixx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/parser.ixx
+END
+negative-integer.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/negative-integer.hxx
+END
+byte.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/byte.cxx
+END
+unsigned-long-long.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/unsigned-long-long.hxx
+END
+nmtoken-stl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/nmtoken-stl.cxx
+END
+any-type.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/any-type.hxx
+END
+gmonth-day.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/gmonth-day.hxx
+END
+name.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/name.cxx
+END
+number.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/number.cxx
+END
+non-positive-integer.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/non-positive-integer.hxx
+END
+duration.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/duration.hxx
+END
+qname-stl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/qname-stl.cxx
+END
+any-simple-type.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/any-simple-type.hxx
+END
+nmtokens.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/nmtokens.hxx
+END
+gyear.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/gyear.cxx
+END
+date-time.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/date-time.cxx
+END
+time-zone.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/time-zone.hxx
+END
+idrefs.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/idrefs.cxx
+END
+unsigned-byte.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/unsigned-byte.cxx
+END
+unsigned-short.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/unsigned-short.hxx
+END
+xml-schema-pskel.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/xml-schema-pskel.hxx
+END
+name-stl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/name-stl.cxx
+END
+language-stl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/language-stl.cxx
+END
+boolean.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/boolean.hxx
+END
+non-negative-integer.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/non-negative-integer.hxx
+END
+gyear-month.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/gyear-month.cxx
+END
+id.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/id.cxx
+END
+idref.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/idref.hxx
+END
+uri-stl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/uri-stl.cxx
+END
+ncname-stl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/ncname-stl.cxx
+END
+nmtokens-stl.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/nmtokens-stl.hxx
+END
+float.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/float.cxx
+END
+byte.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/byte.hxx
+END
+idrefs-stl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/cxx/parser/non-validating/idrefs-stl.cxx
+END

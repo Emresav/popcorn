@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/regexp
+END
+chvalid.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/regexp/chvalid.h
+END
+xmlregexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/regexp/xmlregexp.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/regexp/COPYING
+END
+xmlunicode.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/regexp/xmlunicode.c
+END
+chvalid.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/regexp/chvalid.c
+END
+xmlregexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/regexp/xmlregexp.c
+END
+xmlunicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/c/regexp/xmlunicode.h
+END

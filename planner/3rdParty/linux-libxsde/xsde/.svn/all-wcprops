@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/scm/svn/PMT/!svn/ver/35/Planner/libxsde/xsde
+END
+allocator.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/allocator.c
+END
+allocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/allocator.h
+END
+libxsde.a
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/scm/svn/PMT/!svn/ver/35/Planner/libxsde/xsde/libxsde.a
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/config.h
+END
+nmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/nmakefile
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/scm/svn/PMT/!svn/ver/27/Planner/libxsde/xsde/makefile
+END

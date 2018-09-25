@@ -1,0 +1,3048 @@
+# depslib dependency file v1.0
+1402768427 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\xmlparse.c
+	<xsde/c/pre.h>
+	<stddef.h>
+	<string.h>
+	<assert.h>
+	<xsde/c/expat/config.h>
+	<xsde/c/expat/expat.h>
+	<xsde/allocator.h>
+	<xsde/c/expat/internal.h>
+	<xsde/c/expat/xmltok.h>
+	<xsde/c/expat/xmlrole.h>
+	<xsde/c/post.h>
+
+1401175436 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\pre.h
+	<xsde/c/compilers/vc-8/pre.h>
+	<xsde/c/compilers/ghs/pre.h>
+
+1401175436 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\compilers\vc-8\pre.h
+
+1401175435 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\compilers\ghs\pre.h
+
+1401175435 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\config.h
+	<xsde/config.h>
+	<windows.h>
+
+1402239712 c:\users\derek\documents\pmt\planner\libxsde\xsde\config.h
+
+1401175435 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\expat.h
+	<stdlib.h>
+	<xsde/c/expat/expat_external.h>
+
+1401175435 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\expat_external.h
+
+1401175456 c:\users\derek\documents\pmt\planner\libxsde\xsde\allocator.h
+	<stddef.h>
+
+1402235767 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\internal.h
+
+1401175435 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\xmltok.h
+
+1401175435 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\xmlrole.h
+	<xsde/c/expat/xmltok.h>
+
+1401175436 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\post.h
+	<xsde/c/compilers/vc-8/post.h>
+	<xsde/c/compilers/ghs/post.h>
+
+1401175436 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\compilers\vc-8\post.h
+
+1401175435 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\compilers\ghs\post.h
+
+1401175435 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\xmlrole.c
+	<xsde/c/pre.h>
+	<stddef.h>
+	<xsde/c/expat/config.h>
+	<xsde/c/expat/expat_external.h>
+	<xsde/c/expat/internal.h>
+	<xsde/c/expat/xmlrole.h>
+	<xsde/c/expat/ascii.h>
+	<xsde/c/post.h>
+
+1401175435 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\ascii.h
+
+1402237794 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\xmltok.c
+	<xsde/c/pre.h>
+	<stddef.h>
+	<xsde/c/expat/config.h>
+	<xsde/c/expat/expat_external.h>
+	<xsde/c/expat/internal.h>
+	<xsde/c/expat/xmltok.h>
+	<xsde/c/expat/nametab.h>
+	<xsde/c/expat/xmltok_impl.h>
+	<xsde/c/expat/ascii.h>
+	<xsde/c/expat/xmltok_impl.c>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/utf8tab.h>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/utf8tab.h>
+	<xsde/c/expat/iasciitab.h>
+	<xsde/c/expat/utf8tab.h>
+	<xsde/c/expat/iasciitab.h>
+	<xsde/c/expat/utf8tab.h>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/xmltok_impl.c>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/iasciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/iasciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/xmltok_impl.c>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/iasciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/iasciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/xmltok_ns.c>
+	<xsde/c/expat/xmltok_ns.c>
+	<xsde/c/post.h>
+
+1401175435 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\nametab.h
+
+1401175435 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\xmltok_impl.h
+	<stddef.h>
+
+1402237559 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\xmltok_impl.c
+
+1401175435 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\asciitab.h
+
+1401175435 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\utf8tab.h
+
+1401175435 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\iasciitab.h
+
+1401175435 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\latin1tab.h
+
+1401175435 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\expat\xmltok_ns.c
+
+1401175435 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\allocator.c
+	<stdlib.h>
+	<xsde/allocator.h>
+
+1401175436 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\c\genx\char-props.c
+	<xsde/c/pre.h>
+	<xsde/c/genx/genx.h>
+	<xsde/c/post.h>
+
+1401175436 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\genx\genx.h
+
+1401175436 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\c\genx\genx.c
+	<xsde/c/pre.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<xsde/config.h>
+	<xsde/c/genx/genx.h>
+	<xsde/allocator.h>
+	<xsde/c/post.h>
+
+1401175454 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\allocator.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.hxx>
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\config.hxx
+	<xsde/config.h>
+
+1401175439 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\allocator.hxx
+	<stddef.h>
+	<new>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.ixx>
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\allocator.ixx
+	<xsde/allocator.h>
+
+1401175456 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\buffer.cxx
+	<string.h>
+	<xsde/cxx/buffer.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\buffer.hxx
+	<stddef.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/buffer.ixx>
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\buffer.ixx
+	<string.h>
+	<xsde/cxx/allocator.hxx>
+
+1401175454 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hashmap.cxx
+	<string.h>
+	<xsde/cxx/hashmap.hxx>
+	<xsde/cxx/allocator.hxx>
+
+1401175439 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hashmap.hxx
+	<stddef.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/hashmap.ixx>
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hashmap.ixx
+
+1401175455 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hybrid\any-type-pimpl.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/hybrid/any-type-pimpl.hxx>
+
+1401175455 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hybrid\any-type-pimpl.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/hybrid/any-type-pskel.hxx>
+
+1401175455 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hybrid\any-type-pskel.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/parser/validating/parser.hxx>
+	<xsde/cxx/parser/non-validating/parser.hxx>
+	<xsde/cxx/hybrid/any-type.hxx>
+	<xsde/cxx/hybrid/any-type-pskel.ixx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\parser.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<xsde/cxx/stack.hxx>
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/ro-string.hxx>
+	<xsde/cxx/parser/elements.hxx>
+	<xsde/cxx/parser/state.hxx>
+	<xsde/cxx/parser/validating/parser.ixx>
+
+1401175439 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\stack.hxx
+	<stddef.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/stack.ixx>
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\stack.ixx
+	<xsde/cxx/allocator.hxx>
+	<new>
+
+1401175439 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\string.hxx
+	<stddef.h>
+	<xsde/cxx/string.ixx>
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\string.ixx
+	<string.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.hxx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\ro-string.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<string>
+	<iosfwd>
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/ro-string.ixx>
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\ro-string.ixx
+	<string.h>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\elements.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/ro-string.hxx>
+	<xsde/cxx/schema-error.hxx>
+	<xsde/cxx/sys-error.hxx>
+	<xsde/cxx/parser/error.hxx>
+	<xsde/cxx/parser/context.hxx>
+	<xsde/cxx/parser/elements.ixx>
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\schema-error.hxx
+	<xsde/cxx/schema-error.ixx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\schema-error.ixx
+
+1401175439 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\sys-error.hxx
+	<xsde/cxx/sys-error.ixx>
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\sys-error.ixx
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\error.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/sys-error.hxx>
+	<xsde/cxx/parser/expat/xml-error.hxx>
+	<xsde/cxx/schema-error.hxx>
+	<xsde/cxx/parser/error.ixx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\expat\xml-error.hxx
+	<xsde/c/expat/expat.h>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\error.ixx
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\context.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<xsde/c/expat/expat.h>
+	<xsde/cxx/ro-string.hxx>
+	<xsde/cxx/sys-error.hxx>
+	<xsde/cxx/schema-error.hxx>
+	<xsde/cxx/parser/context.ixx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\context.ixx
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\elements.ixx
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\state.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/stack.hxx>
+	<xsde/cxx/parser/elements.hxx>
+	<xsde/cxx/parser/state.ixx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\state.ixx
+
+1401175451 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\parser.ixx
+
+1401175447 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\non-validating\parser.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/ro-string.hxx>
+	<xsde/cxx/parser/elements.hxx>
+	<xsde/cxx/parser/state.hxx>
+	<xsde/cxx/parser/non-validating/parser.ixx>
+
+1401175447 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\non-validating\parser.ixx
+
+1401175455 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hybrid\any-type.hxx
+	<xsde/cxx/config.hxx>
+	<string>
+	<xsde/cxx/hybrid/sequence.hxx>
+
+1401175455 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hybrid\sequence.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<iterator>
+	<xsde/cxx/sequence-base.hxx>
+	<xsde/cxx/string-sequence-stl.hxx>
+	<xsde/cxx/string-sequence.hxx>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/hybrid/sequence.ixx>
+	<xsde/cxx/hybrid/sequence.txx>
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\sequence-base.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<xsde/cxx/sequence-base.ixx>
+
+1401175439 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\sequence-base.ixx
+	<xsde/cxx/allocator.hxx>
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\string-sequence-stl.hxx
+	<string>
+	<stddef.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/sequence-base.hxx>
+	<xsde/cxx/string-sequence-stl.ixx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\string-sequence-stl.ixx
+
+1401175456 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\string-sequence.hxx
+	<stddef.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/sequence-base.hxx>
+	<xsde/cxx/string-sequence.ixx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\string-sequence.ixx
+	<xsde/cxx/allocator.hxx>
+
+1401175455 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hybrid\sequence.ixx
+	<string.h>
+	<new>
+
+1401175455 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hybrid\sequence.txx
+	<new>
+
+1401175455 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hybrid\any-type-pskel.ixx
+
+1401175454 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hybrid\any-type-pskel.cxx
+	<xsde/cxx/hybrid/any-type-pskel.hxx>
+
+1401175455 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hybrid\any-type-simpl.cxx
+	<xsde/cxx/hybrid/any-type-simpl.hxx>
+
+1401175455 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hybrid\any-type-simpl.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/hybrid/any-type-sskel.hxx>
+
+1401175455 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hybrid\any-type-sskel.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/serializer/validating/serializer.hxx>
+	<xsde/cxx/serializer/non-validating/serializer.hxx>
+	<xsde/cxx/hybrid/any-type.hxx>
+	<xsde/cxx/hybrid/any-type-sskel.ixx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\serializer.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/serializer/elements.hxx>
+	<xsde/cxx/serializer/validating/serializer.ixx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\elements.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<xsde/cxx/serializer/context.hxx>
+	<xsde/cxx/serializer/error.hxx>
+	<xsde/cxx/serializer/elements.ixx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\context.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<xsde/c/genx/genx.h>
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/sys-error.hxx>
+	<xsde/cxx/serializer/genx/xml-error.hxx>
+	<xsde/cxx/schema-error.hxx>
+	<xsde/cxx/serializer/context.ixx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\genx\xml-error.hxx
+	<xsde/c/genx/genx.h>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\context.ixx
+
+1401175439 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\error.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/sys-error.hxx>
+	<xsde/cxx/serializer/genx/xml-error.hxx>
+	<xsde/cxx/schema-error.hxx>
+	<xsde/cxx/serializer/error.ixx>
+
+1401175439 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\error.ixx
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\elements.ixx
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\serializer.ixx
+
+1401175439 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\non-validating\serializer.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/serializer/elements.hxx>
+	<xsde/cxx/serializer/non-validating/serializer.ixx>
+
+1401175439 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\non-validating\serializer.ixx
+
+1401175455 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hybrid\any-type-sskel.ixx
+
+1401175454 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hybrid\any-type-sskel.cxx
+	<xsde/cxx/hybrid/any-type-sskel.hxx>
+
+1401175455 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hybrid\any-type.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/hybrid/any-type.hxx>
+
+1401175455 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\hybrid\sequence.cxx
+	<xsde/cxx/hybrid/sequence.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\context.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/parser/context.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\elements.cxx
+	<assert.h>
+	<xsde/cxx/parser/elements.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\error.cxx
+	<xsde/cxx/parser/error.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\exceptions.cxx
+	<xsde/cxx/config.hxx>
+	<iostream>
+	<xsde/cxx/parser/exceptions.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\exceptions.hxx
+	<xsde/cxx/config.hxx>
+	<iosfwd>
+	<xsde/cxx/exceptions.hxx>
+	<xsde/cxx/schema-error.hxx>
+	<xsde/cxx/parser/expat/xml-error.hxx>
+	<xsde/cxx/parser/exceptions.ixx>
+
+1401175456 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\exceptions.hxx
+	<exception>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\exceptions.ixx
+
+1401175444 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\expat\document.cxx
+	<xsde/cxx/config.hxx>
+	<assert.h>
+	<string.h>
+	<new>
+	<iostream>
+	<fstream>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/iso8859-1.hxx>
+	<xsde/cxx/parser/exceptions.hxx>
+	<xsde/cxx/parser/substitution-map.hxx>
+	<xsde/cxx/parser/expat/document.hxx>
+
+1401175439 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\iso8859-1.hxx
+	<stddef.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/iso8859-1.ixx>
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\iso8859-1.ixx
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\substitution-map.hxx
+	<stddef.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/ro-string.hxx>
+	<xsde/cxx/hashmap.hxx>
+	<xsde/cxx/parser/substitution-map.ixx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\substitution-map.ixx
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\expat\document.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<string>
+	<iosfwd>
+	<xsde/c/expat/expat.h>
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/string-sequence-stl.hxx>
+	<xsde/cxx/string-sequence.hxx>
+	<xsde/cxx/parser/context.hxx>
+	<xsde/cxx/parser/elements.hxx>
+	<xsde/cxx/parser/error.hxx>
+	<xsde/cxx/parser/expat/document.ixx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\expat\document.ixx
+
+1401175444 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\expat\xml-error.cxx
+	<xsde/cxx/parser/expat/xml-error.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\any-simple-type-stl.cxx
+	<xsde/cxx/parser/validating/any-simple-type-stl.hxx>
+
+1401175451 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\any-simple-type-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\xml-schema-pskel.hxx
+	<xsde/cxx/config.hxx>
+	<string>
+	<xsde/c/regexp/xmlregexp.h>
+	<xsde/cxx/parser/xml-schema.hxx>
+	<xsde/cxx/parser/validating/parser.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.ixx>
+
+1401175436 c:\users\derek\documents\pmt\planner\libxsde\xsde\c\regexp\xmlregexp.h
+
+1401175446 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\xml-schema.hxx
+	<xsde/cxx/buffer.hxx>
+	<xsde/cxx/date-time.hxx>
+	<xsde/cxx/qname-stl.hxx>
+	<xsde/cxx/string-sequence-stl.hxx>
+	<xsde/cxx/qname.hxx>
+	<xsde/cxx/string-sequence.hxx>
+
+1401175439 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\date-time.hxx
+	<xsde/cxx/date-time.ixx>
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\date-time.ixx
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\qname-stl.hxx
+	<string>
+	<xsde/cxx/qname-stl.ixx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\qname-stl.ixx
+
+1401175456 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\qname.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/qname.ixx>
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\qname.ixx
+	<string.h>
+	<xsde/cxx/allocator.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\xml-schema-pskel.ixx
+
+1401175450 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\base64-binary.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/parser/validating/base64-binary.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\base64-binary.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\boolean.cxx
+	<xsde/cxx/parser/validating/boolean.hxx>
+
+1401175450 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\boolean.hxx
+	<stddef.h>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\byte.cxx
+	<stdlib.h>
+	<xsde/cxx/parser/validating/byte.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\byte.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\number.hxx
+	<stddef.h>
+	<xsde/cxx/ro-string.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\date-time.cxx
+	<stdlib.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/date-time.hxx>
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\errno.hxx
+	<xsde/cxx/errno.ixx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\errno.ixx
+	<xsde/cxx/config.hxx>
+	<winbase.h>
+	<errno.h>
+
+1401175450 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\date-time.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\time-zone.hxx
+	<stddef.h>
+
+1401175451 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\date.cxx
+	<stdlib.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/date.hxx>
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\date.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175450 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\decimal.cxx
+	<stdlib.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/decimal.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\decimal.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\double.cxx
+	<stdlib.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/double.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\double.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\duration.cxx
+	<stdlib.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/duration.hxx>
+
+1401175451 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\duration.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175450 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\float.cxx
+	<stdlib.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/float.hxx>
+
+1401175451 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\float.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\gday.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/parser/validating/gday.hxx>
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\gday.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\gmonth-day.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/parser/validating/gmonth-day.hxx>
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175450 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\gmonth-day.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\gmonth.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/parser/validating/gmonth.hxx>
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175451 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\gmonth.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\gyear-month.cxx
+	<stdlib.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/gyear-month.hxx>
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\gyear-month.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\gyear.cxx
+	<stdlib.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/gyear.hxx>
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\gyear.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\hex-binary.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/parser/validating/hex-binary.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\hex-binary.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\id-stl.cxx
+	<xsde/cxx/xml/ncname.hxx>
+	<xsde/cxx/parser/validating/id-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\xml\ncname.hxx
+	<stddef.h>
+
+1401175451 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\id-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175450 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\string-common.hxx
+	<xsde/cxx/config.hxx>
+	<string>
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\idref-stl.cxx
+	<xsde/cxx/xml/ncname.hxx>
+	<xsde/cxx/parser/validating/idref-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\idref-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\idrefs-stl.cxx
+	<xsde/cxx/pre.hxx>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/parser/validating/idrefs-stl.hxx>
+	<xsde/cxx/post.hxx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\pre.hxx
+	<xsde/cxx/compilers/vc-8/pre.hxx>
+	<xsde/cxx/compilers/vc-7/pre.hxx>
+	<xsde/cxx/compilers/vc-6/pre.hxx>
+	<xsde/cxx/compilers/ghs/pre.hxx>
+
+1401175453 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\compilers\vc-8\pre.hxx
+	<xsde/config.h>
+
+1401175453 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\compilers\vc-7\pre.hxx
+	<xsde/config.h>
+
+1401175453 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\compilers\vc-6\pre.hxx
+	<xsde/config.h>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\compilers\ghs\pre.hxx
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\idrefs-stl.hxx
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+	<xsde/cxx/parser/validating/idref-stl.hxx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\post.hxx
+	<xsde/cxx/compilers/vc-8/post.hxx>
+	<xsde/cxx/compilers/vc-7/post.hxx>
+	<xsde/cxx/compilers/vc-6/post.hxx>
+	<xsde/cxx/compilers/ghs/post.hxx>
+
+1401175453 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\compilers\vc-8\post.hxx
+
+1401175453 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\compilers\vc-7\post.hxx
+
+1401175453 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\compilers\vc-6\post.hxx
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\compilers\ghs\post.hxx
+
+1401175450 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\int.cxx
+	<stdlib.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/int.hxx>
+
+1401175451 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\int.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\integer.cxx
+	<stdlib.h>
+	<limits.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/integer.hxx>
+
+1401175451 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\integer.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\language-stl.cxx
+	<xsde/cxx/parser/validating/language-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\language-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175450 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\long-long.cxx
+	<stdlib.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/long-long.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\long-long.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\name-stl.cxx
+	<xsde/cxx/xml/char-table.hxx>
+	<xsde/cxx/parser/validating/name-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\xml\char-table.hxx
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\name-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\ncname-stl.cxx
+	<xsde/cxx/xml/ncname.hxx>
+	<xsde/cxx/parser/validating/ncname-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175451 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\ncname-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\negative-integer.cxx
+	<stdlib.h>
+	<limits.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/negative-integer.hxx>
+
+1401175451 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\negative-integer.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\nmtoken-stl.cxx
+	<xsde/cxx/xml/char-table.hxx>
+	<xsde/cxx/parser/validating/nmtoken-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\nmtoken-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\nmtokens-stl.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/parser/validating/nmtokens-stl.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\nmtokens-stl.hxx
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+	<xsde/cxx/parser/validating/nmtoken-stl.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\non-negative-integer.cxx
+	<stdlib.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/non-negative-integer.hxx>
+
+1401175450 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\non-negative-integer.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\non-positive-integer.cxx
+	<stdlib.h>
+	<limits.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/non-positive-integer.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\non-positive-integer.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\normalized-string-stl.cxx
+	<xsde/cxx/parser/validating/normalized-string-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175451 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\normalized-string-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\number.cxx
+	<string.h>
+	<xsde/cxx/parser/validating/number.hxx>
+
+1401175450 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\parser.cxx
+	<assert.h>
+	<xsde/cxx/parser/validating/parser.hxx>
+
+1401175451 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\positive-integer.cxx
+	<stdlib.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/positive-integer.hxx>
+
+1401175450 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\positive-integer.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\qname-stl.cxx
+	<xsde/cxx/xml/ncname.hxx>
+	<xsde/cxx/parser/validating/qname-stl.hxx>
+
+1401175450 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\qname-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175450 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\short.cxx
+	<stdlib.h>
+	<xsde/cxx/parser/validating/short.hxx>
+
+1401175451 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\short.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\string-common.cxx
+	<xsde/cxx/config.hxx>
+	<new>
+	<xsde/cxx/string-search.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175454 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\string-search.hxx
+	<stddef.h>
+
+1401175450 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\string-stl.cxx
+	<xsde/cxx/parser/validating/string-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\string-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175450 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\time-zone.cxx
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175450 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\time.cxx
+	<stdlib.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/time.hxx>
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175451 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\time.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\token-stl.cxx
+	<xsde/cxx/parser/validating/token-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\token-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175450 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\unsigned-byte.cxx
+	<stdlib.h>
+	<xsde/cxx/parser/validating/unsigned-byte.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\unsigned-byte.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\unsigned-int.cxx
+	<stdlib.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/unsigned-int.hxx>
+
+1401175450 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\unsigned-int.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\unsigned-long-long.cxx
+	<stdlib.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/unsigned-long-long.hxx>
+
+1401175451 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\unsigned-long-long.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\unsigned-short.cxx
+	<stdlib.h>
+	<xsde/cxx/parser/validating/unsigned-short.hxx>
+
+1401175451 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\unsigned-short.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\uri-stl.cxx
+	<xsde/cxx/parser/validating/uri-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175452 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\uri-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\parser\validating\xml-schema-pskel.cxx
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175454 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\ro-string.cxx
+	<xsde/cxx/ro-string.hxx>
+	<iostream>
+
+1401175439 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\schema-error.cxx
+	<xsde/cxx/schema-error.hxx>
+
+1401175439 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\sequence-base.cxx
+	<string.h>
+	<xsde/cxx/sequence-base.hxx>
+
+1401175444 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\context.cxx
+	<assert.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/ro-string.hxx>
+	<new>
+	<xsde/cxx/serializer/exceptions.hxx>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/iso8859-1.hxx>
+	<xsde/cxx/serializer/context.hxx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\exceptions.hxx
+	<xsde/cxx/config.hxx>
+	<iosfwd>
+	<xsde/cxx/exceptions.hxx>
+	<xsde/cxx/schema-error.hxx>
+	<xsde/cxx/serializer/genx/xml-error.hxx>
+	<xsde/cxx/serializer/exceptions.ixx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\exceptions.ixx
+
+1401175444 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\elements.cxx
+	<assert.h>
+	<xsde/cxx/serializer/elements.hxx>
+
+1401175444 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\error.cxx
+	<xsde/cxx/serializer/error.hxx>
+
+1401175444 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\genx\document.cxx
+	<xsde/cxx/config.hxx>
+	<string.h>
+	<new>
+	<iostream>
+	<xsde/cxx/serializer/exceptions.hxx>
+	<xsde/cxx/serializer/error.hxx>
+	<xsde/cxx/serializer/context.hxx>
+	<xsde/cxx/serializer/substitution-map.hxx>
+	<xsde/cxx/serializer/genx/document.hxx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\substitution-map.hxx
+	<stddef.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/ro-string.hxx>
+	<xsde/cxx/hashmap.hxx>
+	<xsde/cxx/serializer/substitution-map.ixx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\substitution-map.ixx
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\genx\document.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<xsde/c/genx/genx.h>
+	<iosfwd>
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/string-sequence-stl.hxx>
+	<xsde/cxx/string-sequence.hxx>
+	<xsde/cxx/serializer/elements.hxx>
+	<xsde/cxx/serializer/error.hxx>
+	<xsde/cxx/serializer/genx/document.ixx>
+
+1401175444 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\genx\document.ixx
+
+1401175444 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\genx\xml-error.cxx
+	<xsde/cxx/serializer/genx/xml-error.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\any-simple-type-stl.cxx
+	<xsde/cxx/serializer/validating/any-simple-type-stl.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\any-simple-type-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\xml-schema-sskel.hxx
+	<xsde/cxx/config.hxx>
+	<string>
+	<xsde/c/regexp/xmlregexp.h>
+	<xsde/cxx/serializer/xml-schema.hxx>
+	<xsde/cxx/serializer/validating/serializer.hxx>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.ixx>
+
+1401175439 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\xml-schema.hxx
+	<xsde/cxx/buffer.hxx>
+	<xsde/cxx/date-time.hxx>
+	<xsde/cxx/qname-stl.hxx>
+	<xsde/cxx/string-sequence-stl.hxx>
+	<xsde/cxx/qname.hxx>
+	<xsde/cxx/string-sequence.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\xml-schema-sskel.ixx
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\base64-binary.cxx
+	<xsde/cxx/serializer/validating/base64-binary.hxx>
+	<xsde/cxx/allocator.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\base64-binary.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/base64-binary.ixx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\base64-binary.ixx
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\boolean.cxx
+	<xsde/cxx/serializer/validating/boolean.hxx>
+
+1401175442 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\boolean.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\byte.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/byte.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\byte.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\date-time.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/date-time.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\date-time.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/date-time.ixx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\date-time.ixx
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\time-zone.hxx
+	<xsde/cxx/date-time.hxx>
+	<xsde/cxx/serializer/validating/time-zone.ixx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\time-zone.ixx
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\date.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/date.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\date.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/date.ixx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\date.ixx
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\decimal.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/decimal.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\decimal.hxx
+	<float.h>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/decimal.ixx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\decimal.ixx
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\double.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/double.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\double.hxx
+	<float.h>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/double.ixx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\double.ixx
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\duration.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/duration.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\duration.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/duration.ixx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\duration.ixx
+
+1401175442 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\float.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/float.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\float.hxx
+	<float.h>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/float.ixx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\float.ixx
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\gday.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/gday.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\gday.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/gday.ixx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\gday.ixx
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\gmonth-day.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/gmonth-day.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\gmonth-day.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/gmonth-day.ixx>
+
+1401175442 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\gmonth-day.ixx
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\gmonth.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/gmonth.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\gmonth.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/gmonth.ixx>
+
+1401175442 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\gmonth.ixx
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\gyear-month.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/gyear-month.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\gyear-month.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/gyear-month.ixx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\gyear-month.ixx
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\gyear.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/gyear.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\gyear.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/gyear.ixx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\gyear.ixx
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\hex-binary.cxx
+	<xsde/cxx/serializer/validating/hex-binary.hxx>
+	<xsde/cxx/allocator.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\hex-binary.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/hex-binary.ixx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\hex-binary.ixx
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\id-stl.cxx
+	<xsde/cxx/xml/ncname.hxx>
+	<xsde/cxx/serializer/validating/id-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\id-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175442 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\string-common.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\idref-stl.cxx
+	<xsde/cxx/xml/ncname.hxx>
+	<xsde/cxx/serializer/validating/idref-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\idref-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\idrefs-stl.cxx
+	<xsde/cxx/serializer/validating/idrefs-stl.hxx>
+	<xsde/cxx/allocator.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\idrefs-stl.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/idref-stl.hxx>
+	<xsde/cxx/serializer/validating/idrefs-stl.ixx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\idrefs-stl.ixx
+
+1401175442 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\int.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/int.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\int.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\integer.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/integer.hxx>
+
+1401175442 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\integer.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\language-stl.cxx
+	<xsde/cxx/serializer/validating/language-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\language-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\long-long.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/long-long.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\long-long.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\name-stl.cxx
+	<xsde/cxx/xml/char-table.hxx>
+	<xsde/cxx/serializer/validating/name-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\name-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\ncname-stl.cxx
+	<xsde/cxx/xml/ncname.hxx>
+	<xsde/cxx/serializer/validating/ncname-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175442 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\ncname-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\negative-integer.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/negative-integer.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\negative-integer.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\nmtoken-stl.cxx
+	<xsde/cxx/xml/char-table.hxx>
+	<xsde/cxx/serializer/validating/nmtoken-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\nmtoken-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175442 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\nmtokens-stl.cxx
+	<xsde/cxx/serializer/validating/nmtokens-stl.hxx>
+	<xsde/cxx/allocator.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\nmtokens-stl.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/nmtoken-stl.hxx>
+	<xsde/cxx/serializer/validating/nmtokens-stl.ixx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\nmtokens-stl.ixx
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\non-negative-integer.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/non-negative-integer.hxx>
+
+1401175442 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\non-negative-integer.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\non-positive-integer.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/non-positive-integer.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\non-positive-integer.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175442 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\normalized-string-stl.cxx
+	<xsde/cxx/serializer/validating/normalized-string-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\normalized-string-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\positive-integer.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/positive-integer.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\positive-integer.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\qname-stl.cxx
+	<xsde/cxx/xml/ncname.hxx>
+	<xsde/cxx/serializer/validating/qname-stl.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\qname-stl.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/qname-stl.ixx>
+
+1401175442 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\qname-stl.ixx
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\serializer.cxx
+	<xsde/cxx/serializer/validating/serializer.hxx>
+
+1401175442 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\short.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/short.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\short.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\string-common.cxx
+	<xsde/cxx/config.hxx>
+	<string.h>
+	<new>
+	<xsde/cxx/string-search.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175442 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\string-stl.cxx
+	<xsde/cxx/serializer/validating/string-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\string-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\time-zone.cxx
+	<stdio.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175442 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\time.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/time.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\time.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/time.ixx>
+
+1401175442 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\time.ixx
+
+1401175442 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\token-stl.cxx
+	<xsde/cxx/serializer/validating/token-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\token-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\unsigned-byte.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/unsigned-byte.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\unsigned-byte.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\unsigned-int.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/unsigned-int.hxx>
+
+1401175442 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\unsigned-int.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\unsigned-long-long.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/unsigned-long-long.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\unsigned-long-long.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\unsigned-short.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/unsigned-short.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\unsigned-short.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\uri-stl.cxx
+	<xsde/cxx/serializer/validating/uri-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\uri-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\serializer\validating\xml-schema-sskel.cxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175454 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\stack.cxx
+	<xsde/cxx/stack.hxx>
+
+1401175439 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\string-sequence-stl.cxx
+	<xsde/cxx/string-sequence-stl.hxx>
+	<xsde/cxx/allocator.hxx>
+
+1401175454 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\string.cxx
+	<string.h>
+	<xsde/cxx/string.hxx>
+
+1401175444 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\xml\char-table.cxx
+	<xsde/cxx/xml/char-table.hxx>
+
+1401175444 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\xml\ncname.cxx
+	<xsde/cxx/xml/char-table.hxx>
+	<xsde/cxx/xml/ncname.hxx>
+
+1401175439 source:c:\users\derek\documents\pmt\planner\libxsde\xsde\cxx\string-search.cxx
+	<string.h>
+	<xsde/cxx/string-search.hxx>
+
+1401175435 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\allocator.c
+	<stdlib.h>
+	<xsde/allocator.h>
+
+1401175456 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\allocator.h
+	<stddef.h>
+
+1401175435 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\xmlrole.c
+	<xsde/c/pre.h>
+	<stddef.h>
+	<xsde/c/expat/config.h>
+	<xsde/c/expat/expat_external.h>
+	<xsde/c/expat/internal.h>
+	<xsde/c/expat/xmlrole.h>
+	<xsde/c/expat/ascii.h>
+	<xsde/c/post.h>
+
+1401175436 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\pre.h
+	<xsde/c/compilers/vc-8/pre.h>
+	<xsde/c/compilers/ghs/pre.h>
+
+1401175436 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\compilers\vc-8\pre.h
+
+1401175435 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\compilers\ghs\pre.h
+
+1401175435 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\config.h
+	<xsde/config.h>
+	<windows.h>
+
+1402239712 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\config.h
+
+1401175435 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\expat_external.h
+
+1402235767 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\internal.h
+
+1401175435 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\xmlrole.h
+	<xsde/c/expat/xmltok.h>
+
+1401175435 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\xmltok.h
+
+1401175435 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\ascii.h
+
+1401175436 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\post.h
+	<xsde/c/compilers/vc-8/post.h>
+	<xsde/c/compilers/ghs/post.h>
+
+1401175436 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\compilers\vc-8\post.h
+
+1401175435 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\compilers\ghs\post.h
+
+1402237794 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\xmltok.c
+	<xsde/c/pre.h>
+	<stddef.h>
+	<xsde/c/expat/config.h>
+	<xsde/c/expat/expat_external.h>
+	<xsde/c/expat/internal.h>
+	<xsde/c/expat/xmltok.h>
+	<xsde/c/expat/nametab.h>
+	<xsde/c/expat/xmltok_impl.h>
+	<xsde/c/expat/ascii.h>
+	<xsde/c/expat/xmltok_impl.c>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/utf8tab.h>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/utf8tab.h>
+	<xsde/c/expat/iasciitab.h>
+	<xsde/c/expat/utf8tab.h>
+	<xsde/c/expat/iasciitab.h>
+	<xsde/c/expat/utf8tab.h>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/xmltok_impl.c>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/iasciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/iasciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/xmltok_impl.c>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/asciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/iasciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/iasciitab.h>
+	<xsde/c/expat/latin1tab.h>
+	<xsde/c/expat/xmltok_ns.c>
+	<xsde/c/expat/xmltok_ns.c>
+	<xsde/c/post.h>
+
+1401175435 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\nametab.h
+
+1401175435 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\xmltok_impl.h
+	<stddef.h>
+
+1402237559 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\xmltok_impl.c
+
+1401175435 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\asciitab.h
+
+1401175435 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\utf8tab.h
+
+1401175435 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\iasciitab.h
+
+1401175435 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\latin1tab.h
+
+1401175435 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\xmltok_ns.c
+
+1401175436 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\genx\char-props.c
+	<xsde/c/pre.h>
+	<xsde/c/genx/genx.h>
+	<xsde/c/post.h>
+
+1401175436 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\genx\genx.h
+
+1401175436 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\genx\genx.c
+	<xsde/c/pre.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<xsde/config.h>
+	<xsde/c/genx/genx.h>
+	<xsde/allocator.h>
+	<xsde/c/post.h>
+
+1401175456 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\buffer.cxx
+	<string.h>
+	<xsde/cxx/buffer.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\buffer.hxx
+	<stddef.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/buffer.ixx>
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\config.hxx
+	<xsde/config.h>
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\buffer.ixx
+	<string.h>
+	<xsde/cxx/allocator.hxx>
+
+1401175439 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\allocator.hxx
+	<stddef.h>
+	<new>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.ixx>
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\allocator.ixx
+	<xsde/allocator.h>
+
+1401175455 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hybrid\any-type-pimpl.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/hybrid/any-type-pimpl.hxx>
+
+1401175455 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hybrid\any-type-pimpl.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/hybrid/any-type-pskel.hxx>
+
+1401175455 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hybrid\any-type-pskel.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/parser/validating/parser.hxx>
+	<xsde/cxx/parser/non-validating/parser.hxx>
+	<xsde/cxx/hybrid/any-type.hxx>
+	<xsde/cxx/hybrid/any-type-pskel.ixx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\parser.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<xsde/cxx/stack.hxx>
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/ro-string.hxx>
+	<xsde/cxx/parser/elements.hxx>
+	<xsde/cxx/parser/state.hxx>
+	<xsde/cxx/parser/validating/parser.ixx>
+
+1401175439 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\stack.hxx
+	<stddef.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/stack.ixx>
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\stack.ixx
+	<xsde/cxx/allocator.hxx>
+	<new>
+
+1401175439 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\string.hxx
+	<stddef.h>
+	<xsde/cxx/string.ixx>
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\string.ixx
+	<string.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.hxx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\ro-string.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<string>
+	<iosfwd>
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/ro-string.ixx>
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\ro-string.ixx
+	<string.h>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\elements.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/ro-string.hxx>
+	<xsde/cxx/schema-error.hxx>
+	<xsde/cxx/sys-error.hxx>
+	<xsde/cxx/parser/error.hxx>
+	<xsde/cxx/parser/context.hxx>
+	<xsde/cxx/parser/elements.ixx>
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\schema-error.hxx
+	<xsde/cxx/schema-error.ixx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\schema-error.ixx
+
+1401175439 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\sys-error.hxx
+	<xsde/cxx/sys-error.ixx>
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\sys-error.ixx
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\error.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/sys-error.hxx>
+	<xsde/cxx/parser/expat/xml-error.hxx>
+	<xsde/cxx/schema-error.hxx>
+	<xsde/cxx/parser/error.ixx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\expat\xml-error.hxx
+	<xsde/c/expat/expat.h>
+
+1401175435 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\expat.h
+	<stdlib.h>
+	<xsde/c/expat/expat_external.h>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\error.ixx
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\context.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<xsde/c/expat/expat.h>
+	<xsde/cxx/ro-string.hxx>
+	<xsde/cxx/sys-error.hxx>
+	<xsde/cxx/schema-error.hxx>
+	<xsde/cxx/parser/context.ixx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\context.ixx
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\elements.ixx
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\state.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/stack.hxx>
+	<xsde/cxx/parser/elements.hxx>
+	<xsde/cxx/parser/state.ixx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\state.ixx
+
+1401175451 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\parser.ixx
+
+1401175447 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\non-validating\parser.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/ro-string.hxx>
+	<xsde/cxx/parser/elements.hxx>
+	<xsde/cxx/parser/state.hxx>
+	<xsde/cxx/parser/non-validating/parser.ixx>
+
+1401175447 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\non-validating\parser.ixx
+
+1401175455 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hybrid\any-type.hxx
+	<xsde/cxx/config.hxx>
+	<string>
+	<xsde/cxx/hybrid/sequence.hxx>
+
+1401175455 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hybrid\sequence.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<iterator>
+	<xsde/cxx/sequence-base.hxx>
+	<xsde/cxx/string-sequence-stl.hxx>
+	<xsde/cxx/string-sequence.hxx>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/hybrid/sequence.ixx>
+	<xsde/cxx/hybrid/sequence.txx>
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\sequence-base.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<xsde/cxx/sequence-base.ixx>
+
+1401175439 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\sequence-base.ixx
+	<xsde/cxx/allocator.hxx>
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\string-sequence-stl.hxx
+	<string>
+	<stddef.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/sequence-base.hxx>
+	<xsde/cxx/string-sequence-stl.ixx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\string-sequence-stl.ixx
+
+1401175456 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\string-sequence.hxx
+	<stddef.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/sequence-base.hxx>
+	<xsde/cxx/string-sequence.ixx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\string-sequence.ixx
+	<xsde/cxx/allocator.hxx>
+
+1401175455 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hybrid\sequence.ixx
+	<string.h>
+	<new>
+
+1401175455 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hybrid\sequence.txx
+	<new>
+
+1401175455 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hybrid\any-type-pskel.ixx
+
+1401175454 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hybrid\any-type-pskel.cxx
+	<xsde/cxx/hybrid/any-type-pskel.hxx>
+
+1401175455 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hybrid\any-type-simpl.cxx
+	<xsde/cxx/hybrid/any-type-simpl.hxx>
+
+1401175455 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hybrid\any-type-simpl.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/hybrid/any-type-sskel.hxx>
+
+1401175455 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hybrid\any-type-sskel.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/serializer/validating/serializer.hxx>
+	<xsde/cxx/serializer/non-validating/serializer.hxx>
+	<xsde/cxx/hybrid/any-type.hxx>
+	<xsde/cxx/hybrid/any-type-sskel.ixx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\serializer.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/serializer/elements.hxx>
+	<xsde/cxx/serializer/validating/serializer.ixx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\elements.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<xsde/cxx/serializer/context.hxx>
+	<xsde/cxx/serializer/error.hxx>
+	<xsde/cxx/serializer/elements.ixx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\context.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<xsde/c/genx/genx.h>
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/sys-error.hxx>
+	<xsde/cxx/serializer/genx/xml-error.hxx>
+	<xsde/cxx/schema-error.hxx>
+	<xsde/cxx/serializer/context.ixx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\genx\xml-error.hxx
+	<xsde/c/genx/genx.h>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\context.ixx
+
+1401175439 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\error.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/sys-error.hxx>
+	<xsde/cxx/serializer/genx/xml-error.hxx>
+	<xsde/cxx/schema-error.hxx>
+	<xsde/cxx/serializer/error.ixx>
+
+1401175439 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\error.ixx
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\elements.ixx
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\serializer.ixx
+
+1401175439 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\non-validating\serializer.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/serializer/elements.hxx>
+	<xsde/cxx/serializer/non-validating/serializer.ixx>
+
+1401175439 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\non-validating\serializer.ixx
+
+1401175455 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hybrid\any-type-sskel.ixx
+
+1401175454 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hybrid\any-type-sskel.cxx
+	<xsde/cxx/hybrid/any-type-sskel.hxx>
+
+1401175455 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hybrid\any-type.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/hybrid/any-type.hxx>
+
+1401175455 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hybrid\sequence.cxx
+	<xsde/cxx/hybrid/sequence.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\context.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/parser/context.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\elements.cxx
+	<assert.h>
+	<xsde/cxx/parser/elements.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\error.cxx
+	<xsde/cxx/parser/error.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\exceptions.cxx
+	<xsde/cxx/config.hxx>
+	<iostream>
+	<xsde/cxx/parser/exceptions.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\exceptions.hxx
+	<xsde/cxx/config.hxx>
+	<iosfwd>
+	<xsde/cxx/exceptions.hxx>
+	<xsde/cxx/schema-error.hxx>
+	<xsde/cxx/parser/expat/xml-error.hxx>
+	<xsde/cxx/parser/exceptions.ixx>
+
+1401175456 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\exceptions.hxx
+	<exception>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\exceptions.ixx
+
+1404057638 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\expat\document.cxx
+	<xsde/cxx/config.hxx>
+	<assert.h>
+	<string.h>
+	<new>
+	<iostream>
+	<fstream>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/iso8859-1.hxx>
+	<xsde/cxx/parser/exceptions.hxx>
+	<xsde/cxx/parser/substitution-map.hxx>
+	<xsde/cxx/parser/expat/document.hxx>
+
+1401175439 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\iso8859-1.hxx
+	<stddef.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/iso8859-1.ixx>
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\iso8859-1.ixx
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\substitution-map.hxx
+	<stddef.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/ro-string.hxx>
+	<xsde/cxx/hashmap.hxx>
+	<xsde/cxx/parser/substitution-map.ixx>
+
+1401175439 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hashmap.hxx
+	<stddef.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/hashmap.ixx>
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\hashmap.ixx
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\substitution-map.ixx
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\expat\document.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<string>
+	<iosfwd>
+	<xsde/c/expat/expat.h>
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/string-sequence-stl.hxx>
+	<xsde/cxx/string-sequence.hxx>
+	<xsde/cxx/parser/context.hxx>
+	<xsde/cxx/parser/elements.hxx>
+	<xsde/cxx/parser/error.hxx>
+	<xsde/cxx/parser/expat/document.ixx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\expat\document.ixx
+
+1401175444 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\expat\xml-error.cxx
+	<xsde/cxx/parser/expat/xml-error.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\any-simple-type-stl.cxx
+	<xsde/cxx/parser/validating/any-simple-type-stl.hxx>
+
+1401175451 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\any-simple-type-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\xml-schema-pskel.hxx
+	<xsde/cxx/config.hxx>
+	<string>
+	<xsde/c/regexp/xmlregexp.h>
+	<xsde/cxx/parser/xml-schema.hxx>
+	<xsde/cxx/parser/validating/parser.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.ixx>
+
+1401175436 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\regexp\xmlregexp.h
+
+1401175446 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\xml-schema.hxx
+	<xsde/cxx/buffer.hxx>
+	<xsde/cxx/date-time.hxx>
+	<xsde/cxx/qname-stl.hxx>
+	<xsde/cxx/string-sequence-stl.hxx>
+	<xsde/cxx/qname.hxx>
+	<xsde/cxx/string-sequence.hxx>
+
+1401175439 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\date-time.hxx
+	<xsde/cxx/date-time.ixx>
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\date-time.ixx
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\qname-stl.hxx
+	<string>
+	<xsde/cxx/qname-stl.ixx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\qname-stl.ixx
+
+1401175456 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\qname.hxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/qname.ixx>
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\qname.ixx
+	<string.h>
+	<xsde/cxx/allocator.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\xml-schema-pskel.ixx
+
+1401175450 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\base64-binary.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/parser/validating/base64-binary.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\base64-binary.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\boolean.cxx
+	<xsde/cxx/parser/validating/boolean.hxx>
+
+1401175450 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\boolean.hxx
+	<stddef.h>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\byte.cxx
+	<stdlib.h>
+	<xsde/cxx/parser/validating/byte.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\byte.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\number.hxx
+	<stddef.h>
+	<xsde/cxx/ro-string.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\date-time.cxx
+	<stdlib.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/date-time.hxx>
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\errno.hxx
+	<xsde/cxx/errno.ixx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\errno.ixx
+	<xsde/cxx/config.hxx>
+	<winbase.h>
+	<errno.h>
+
+1401175450 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\date-time.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\time-zone.hxx
+	<stddef.h>
+
+1401175451 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\date.cxx
+	<stdlib.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/date.hxx>
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\date.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175450 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\decimal.cxx
+	<stdlib.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/decimal.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\decimal.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\double.cxx
+	<stdlib.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/double.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\double.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\duration.cxx
+	<stdlib.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/duration.hxx>
+
+1401175451 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\duration.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175450 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\float.cxx
+	<stdlib.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/float.hxx>
+
+1401175451 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\float.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\gday.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/parser/validating/gday.hxx>
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\gday.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\gmonth-day.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/parser/validating/gmonth-day.hxx>
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175450 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\gmonth-day.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\gmonth.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/parser/validating/gmonth.hxx>
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175451 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\gmonth.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\gyear-month.cxx
+	<stdlib.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/gyear-month.hxx>
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\gyear-month.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\gyear.cxx
+	<stdlib.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/gyear.hxx>
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\gyear.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\hex-binary.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/parser/validating/hex-binary.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\hex-binary.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\id-stl.cxx
+	<xsde/cxx/xml/ncname.hxx>
+	<xsde/cxx/parser/validating/id-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\xml\ncname.hxx
+	<stddef.h>
+
+1401175451 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\id-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175450 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\string-common.hxx
+	<xsde/cxx/config.hxx>
+	<string>
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\idref-stl.cxx
+	<xsde/cxx/xml/ncname.hxx>
+	<xsde/cxx/parser/validating/idref-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\idref-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\idrefs-stl.cxx
+	<xsde/cxx/pre.hxx>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/parser/validating/idrefs-stl.hxx>
+	<xsde/cxx/post.hxx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\pre.hxx
+	<xsde/cxx/compilers/vc-8/pre.hxx>
+	<xsde/cxx/compilers/vc-7/pre.hxx>
+	<xsde/cxx/compilers/vc-6/pre.hxx>
+	<xsde/cxx/compilers/ghs/pre.hxx>
+
+1401175453 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\compilers\vc-8\pre.hxx
+	<xsde/config.h>
+
+1401175453 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\compilers\vc-7\pre.hxx
+	<xsde/config.h>
+
+1401175453 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\compilers\vc-6\pre.hxx
+	<xsde/config.h>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\compilers\ghs\pre.hxx
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\idrefs-stl.hxx
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+	<xsde/cxx/parser/validating/idref-stl.hxx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\post.hxx
+	<xsde/cxx/compilers/vc-8/post.hxx>
+	<xsde/cxx/compilers/vc-7/post.hxx>
+	<xsde/cxx/compilers/vc-6/post.hxx>
+	<xsde/cxx/compilers/ghs/post.hxx>
+
+1401175453 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\compilers\vc-8\post.hxx
+
+1401175453 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\compilers\vc-7\post.hxx
+
+1401175453 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\compilers\vc-6\post.hxx
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\compilers\ghs\post.hxx
+
+1401175450 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\int.cxx
+	<stdlib.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/int.hxx>
+
+1401175451 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\int.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\integer.cxx
+	<stdlib.h>
+	<limits.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/integer.hxx>
+
+1401175451 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\integer.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\language-stl.cxx
+	<xsde/cxx/parser/validating/language-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\language-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175450 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\long-long.cxx
+	<stdlib.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/long-long.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\long-long.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\name-stl.cxx
+	<xsde/cxx/xml/char-table.hxx>
+	<xsde/cxx/parser/validating/name-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\xml\char-table.hxx
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\name-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\ncname-stl.cxx
+	<xsde/cxx/xml/ncname.hxx>
+	<xsde/cxx/parser/validating/ncname-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175451 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\ncname-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\negative-integer.cxx
+	<stdlib.h>
+	<limits.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/negative-integer.hxx>
+
+1401175451 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\negative-integer.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\nmtoken-stl.cxx
+	<xsde/cxx/xml/char-table.hxx>
+	<xsde/cxx/parser/validating/nmtoken-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\nmtoken-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\nmtokens-stl.cxx
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/parser/validating/nmtokens-stl.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\nmtokens-stl.hxx
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+	<xsde/cxx/parser/validating/nmtoken-stl.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\non-negative-integer.cxx
+	<stdlib.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/non-negative-integer.hxx>
+
+1401175450 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\non-negative-integer.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\non-positive-integer.cxx
+	<stdlib.h>
+	<limits.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/non-positive-integer.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\non-positive-integer.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\normalized-string-stl.cxx
+	<xsde/cxx/parser/validating/normalized-string-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175451 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\normalized-string-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\number.cxx
+	<string.h>
+	<xsde/cxx/parser/validating/number.hxx>
+
+1401175450 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\parser.cxx
+	<assert.h>
+	<xsde/cxx/parser/validating/parser.hxx>
+
+1401175451 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\positive-integer.cxx
+	<stdlib.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/positive-integer.hxx>
+
+1401175450 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\positive-integer.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\qname-stl.cxx
+	<xsde/cxx/xml/ncname.hxx>
+	<xsde/cxx/parser/validating/qname-stl.hxx>
+
+1401175450 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\qname-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175450 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\short.cxx
+	<stdlib.h>
+	<xsde/cxx/parser/validating/short.hxx>
+
+1401175451 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\short.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\string-common.cxx
+	<xsde/cxx/config.hxx>
+	<new>
+	<xsde/cxx/string-search.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175454 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\string-search.hxx
+	<stddef.h>
+
+1401175450 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\string-stl.cxx
+	<xsde/cxx/parser/validating/string-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\string-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175450 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\time-zone.cxx
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175450 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\time.cxx
+	<stdlib.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/time.hxx>
+	<xsde/cxx/parser/validating/time-zone.hxx>
+
+1401175451 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\time.hxx
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\token-stl.cxx
+	<xsde/cxx/parser/validating/token-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\token-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175450 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\unsigned-byte.cxx
+	<stdlib.h>
+	<xsde/cxx/parser/validating/unsigned-byte.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\unsigned-byte.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\unsigned-int.cxx
+	<stdlib.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/unsigned-int.hxx>
+
+1401175450 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\unsigned-int.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\unsigned-long-long.cxx
+	<stdlib.h>
+	<xsde/cxx/errno.hxx>
+	<xsde/cxx/parser/validating/unsigned-long-long.hxx>
+
+1401175451 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\unsigned-long-long.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\unsigned-short.cxx
+	<stdlib.h>
+	<xsde/cxx/parser/validating/unsigned-short.hxx>
+
+1401175451 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\unsigned-short.hxx
+	<xsde/cxx/parser/validating/number.hxx>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175451 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\uri-stl.cxx
+	<xsde/cxx/parser/validating/uri-stl.hxx>
+	<xsde/cxx/parser/validating/string-common.hxx>
+
+1401175452 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\uri-stl.hxx
+	<string>
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175452 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\parser\validating\xml-schema-pskel.cxx
+	<xsde/cxx/parser/validating/xml-schema-pskel.hxx>
+
+1401175454 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\ro-string.cxx
+	<xsde/cxx/ro-string.hxx>
+	<iostream>
+
+1401175439 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\schema-error.cxx
+	<xsde/cxx/schema-error.hxx>
+
+1401175439 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\sequence-base.cxx
+	<string.h>
+	<xsde/cxx/sequence-base.hxx>
+
+1401175444 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\context.cxx
+	<assert.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/ro-string.hxx>
+	<new>
+	<xsde/cxx/serializer/exceptions.hxx>
+	<xsde/cxx/allocator.hxx>
+	<xsde/cxx/iso8859-1.hxx>
+	<xsde/cxx/serializer/context.hxx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\exceptions.hxx
+	<xsde/cxx/config.hxx>
+	<iosfwd>
+	<xsde/cxx/exceptions.hxx>
+	<xsde/cxx/schema-error.hxx>
+	<xsde/cxx/serializer/genx/xml-error.hxx>
+	<xsde/cxx/serializer/exceptions.ixx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\exceptions.ixx
+
+1401175444 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\elements.cxx
+	<assert.h>
+	<xsde/cxx/serializer/elements.hxx>
+
+1401175444 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\error.cxx
+	<xsde/cxx/serializer/error.hxx>
+
+1401175444 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\genx\document.cxx
+	<xsde/cxx/config.hxx>
+	<string.h>
+	<new>
+	<iostream>
+	<xsde/cxx/serializer/exceptions.hxx>
+	<xsde/cxx/serializer/error.hxx>
+	<xsde/cxx/serializer/context.hxx>
+	<xsde/cxx/serializer/substitution-map.hxx>
+	<xsde/cxx/serializer/genx/document.hxx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\substitution-map.hxx
+	<stddef.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/ro-string.hxx>
+	<xsde/cxx/hashmap.hxx>
+	<xsde/cxx/serializer/substitution-map.ixx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\substitution-map.ixx
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\genx\document.hxx
+	<xsde/cxx/config.hxx>
+	<stddef.h>
+	<xsde/c/genx/genx.h>
+	<iosfwd>
+	<xsde/cxx/string.hxx>
+	<xsde/cxx/string-sequence-stl.hxx>
+	<xsde/cxx/string-sequence.hxx>
+	<xsde/cxx/serializer/elements.hxx>
+	<xsde/cxx/serializer/error.hxx>
+	<xsde/cxx/serializer/genx/document.ixx>
+
+1401175444 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\genx\document.ixx
+
+1401175444 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\genx\xml-error.cxx
+	<xsde/cxx/serializer/genx/xml-error.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\any-simple-type-stl.cxx
+	<xsde/cxx/serializer/validating/any-simple-type-stl.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\any-simple-type-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\xml-schema-sskel.hxx
+	<xsde/cxx/config.hxx>
+	<string>
+	<xsde/c/regexp/xmlregexp.h>
+	<xsde/cxx/serializer/xml-schema.hxx>
+	<xsde/cxx/serializer/validating/serializer.hxx>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.ixx>
+
+1401175439 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\xml-schema.hxx
+	<xsde/cxx/buffer.hxx>
+	<xsde/cxx/date-time.hxx>
+	<xsde/cxx/qname-stl.hxx>
+	<xsde/cxx/string-sequence-stl.hxx>
+	<xsde/cxx/qname.hxx>
+	<xsde/cxx/string-sequence.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\xml-schema-sskel.ixx
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\base64-binary.cxx
+	<xsde/cxx/serializer/validating/base64-binary.hxx>
+	<xsde/cxx/allocator.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\base64-binary.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/base64-binary.ixx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\base64-binary.ixx
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\boolean.cxx
+	<xsde/cxx/serializer/validating/boolean.hxx>
+
+1401175442 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\boolean.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\byte.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/byte.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\byte.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\date-time.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/date-time.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\date-time.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/date-time.ixx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\date-time.ixx
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\time-zone.hxx
+	<xsde/cxx/date-time.hxx>
+	<xsde/cxx/serializer/validating/time-zone.ixx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\time-zone.ixx
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\date.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/date.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\date.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/date.ixx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\date.ixx
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\decimal.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/decimal.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\decimal.hxx
+	<float.h>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/decimal.ixx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\decimal.ixx
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\double.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/double.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\double.hxx
+	<float.h>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/double.ixx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\double.ixx
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\duration.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/duration.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\duration.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/duration.ixx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\duration.ixx
+
+1401175442 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\float.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/float.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\float.hxx
+	<float.h>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/float.ixx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\float.ixx
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\gday.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/gday.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\gday.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/gday.ixx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\gday.ixx
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\gmonth-day.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/gmonth-day.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\gmonth-day.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/gmonth-day.ixx>
+
+1401175442 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\gmonth-day.ixx
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\gmonth.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/gmonth.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\gmonth.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/gmonth.ixx>
+
+1401175442 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\gmonth.ixx
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\gyear-month.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/gyear-month.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\gyear-month.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/gyear-month.ixx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\gyear-month.ixx
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\gyear.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/gyear.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\gyear.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/gyear.ixx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\gyear.ixx
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\hex-binary.cxx
+	<xsde/cxx/serializer/validating/hex-binary.hxx>
+	<xsde/cxx/allocator.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\hex-binary.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/hex-binary.ixx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\hex-binary.ixx
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\id-stl.cxx
+	<xsde/cxx/xml/ncname.hxx>
+	<xsde/cxx/serializer/validating/id-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\id-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175442 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\string-common.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\idref-stl.cxx
+	<xsde/cxx/xml/ncname.hxx>
+	<xsde/cxx/serializer/validating/idref-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\idref-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\idrefs-stl.cxx
+	<xsde/cxx/serializer/validating/idrefs-stl.hxx>
+	<xsde/cxx/allocator.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\idrefs-stl.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/idref-stl.hxx>
+	<xsde/cxx/serializer/validating/idrefs-stl.ixx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\idrefs-stl.ixx
+
+1401175442 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\int.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/int.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\int.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\integer.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/integer.hxx>
+
+1401175442 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\integer.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\language-stl.cxx
+	<xsde/cxx/serializer/validating/language-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\language-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\long-long.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/long-long.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\long-long.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\name-stl.cxx
+	<xsde/cxx/xml/char-table.hxx>
+	<xsde/cxx/serializer/validating/name-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\name-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\ncname-stl.cxx
+	<xsde/cxx/xml/ncname.hxx>
+	<xsde/cxx/serializer/validating/ncname-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175442 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\ncname-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\negative-integer.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/negative-integer.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\negative-integer.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\nmtoken-stl.cxx
+	<xsde/cxx/xml/char-table.hxx>
+	<xsde/cxx/serializer/validating/nmtoken-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\nmtoken-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175442 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\nmtokens-stl.cxx
+	<xsde/cxx/serializer/validating/nmtokens-stl.hxx>
+	<xsde/cxx/allocator.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\nmtokens-stl.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/nmtoken-stl.hxx>
+	<xsde/cxx/serializer/validating/nmtokens-stl.ixx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\nmtokens-stl.ixx
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\non-negative-integer.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/non-negative-integer.hxx>
+
+1401175442 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\non-negative-integer.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\non-positive-integer.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/non-positive-integer.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\non-positive-integer.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175442 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\normalized-string-stl.cxx
+	<xsde/cxx/serializer/validating/normalized-string-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\normalized-string-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\positive-integer.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/positive-integer.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\positive-integer.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\qname-stl.cxx
+	<xsde/cxx/xml/ncname.hxx>
+	<xsde/cxx/serializer/validating/qname-stl.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\qname-stl.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/qname-stl.ixx>
+
+1401175442 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\qname-stl.ixx
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\serializer.cxx
+	<xsde/cxx/serializer/validating/serializer.hxx>
+
+1401175442 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\short.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/short.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\short.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\string-common.cxx
+	<xsde/cxx/config.hxx>
+	<string.h>
+	<new>
+	<xsde/cxx/string-search.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175442 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\string-stl.cxx
+	<xsde/cxx/serializer/validating/string-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\string-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\time-zone.cxx
+	<stdio.h>
+	<xsde/cxx/config.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175442 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\time.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/time.hxx>
+	<xsde/cxx/serializer/validating/time-zone.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\time.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+	<xsde/cxx/serializer/validating/time.ixx>
+
+1401175442 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\time.ixx
+
+1401175442 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\token-stl.cxx
+	<xsde/cxx/serializer/validating/token-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\token-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\unsigned-byte.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/unsigned-byte.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\unsigned-byte.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\unsigned-int.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/unsigned-int.hxx>
+
+1401175442 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\unsigned-int.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\unsigned-long-long.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/unsigned-long-long.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\unsigned-long-long.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\unsigned-short.cxx
+	<stdio.h>
+	<xsde/cxx/serializer/validating/unsigned-short.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\unsigned-short.hxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\uri-stl.cxx
+	<xsde/cxx/serializer/validating/uri-stl.hxx>
+	<xsde/cxx/serializer/validating/string-common.hxx>
+
+1401175443 c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\uri-stl.hxx
+	<string>
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175443 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\serializer\validating\xml-schema-sskel.cxx
+	<xsde/cxx/serializer/validating/xml-schema-sskel.hxx>
+
+1401175454 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\stack.cxx
+	<xsde/cxx/stack.hxx>
+
+1401175439 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\string-search.cxx
+	<string.h>
+	<xsde/cxx/string-search.hxx>
+
+1401175439 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\string-sequence-stl.cxx
+	<xsde/cxx/string-sequence-stl.hxx>
+	<xsde/cxx/allocator.hxx>
+
+1401175454 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\string.cxx
+	<string.h>
+	<xsde/cxx/string.hxx>
+
+1401175444 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\xml\char-table.cxx
+	<xsde/cxx/xml/char-table.hxx>
+
+1401175444 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\cxx\xml\ncname.cxx
+	<xsde/cxx/xml/char-table.hxx>
+	<xsde/cxx/xml/ncname.hxx>
+
+1404057945 source:c:\users\derek\documents\popfxml\popfxml\3rdparty\libxsde\xsde\c\expat\xmlparse.c
+	<xsde/c/pre.h>
+	<stddef.h>
+	<string.h>
+	<assert.h>
+	<xsde/c/expat/config.h>
+	<xsde/c/expat/expat.h>
+	<xsde/allocator.h>
+	<xsde/c/expat/internal.h>
+	<xsde/c/expat/xmltok.h>
+	<xsde/c/expat/xmlrole.h>
+	<xsde/c/post.h>
+
